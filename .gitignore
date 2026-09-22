@@ -1,6 +1,7 @@
 wp-content/cache/
 wp-content/uploads/
 wp-content/upgrade/
+wp-config.php
 *.log
 .env
 .DS_Store
