@@ -1,0 +1,7 @@
+wp-content/cache/
+wp-content/uploads/
+wp-content/upgrade/
+*.log
+.env
+.DS_Store
+Thumbs.db
