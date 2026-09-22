@@ -1,0 +1,1592 @@
+
+[09:16:46 UTC] [SUCCESS] {"required_plugins":{"active":[],"inactive":[{"name":"Spectra","slug":"ultimate-addons-for-gutenberg","init":"ultimate-addons-for-gutenberg\/ultimate-addons-for-gutenberg.php","action":"http:\/\/zeit-services.test\/wp-admin\/plugins.php?action=activate&plugin=ultimate-addons-for-gutenberg%2Fultimate-addons-for-gutenberg.php&_wpnonce=53389c247d"},{"name":"SureRank","slug":"surerank","init":"surerank\/surerank.php","action":"http:\/\/zeit-services.test\/wp-admin\/plugins.php?action=activate&plugin=surerank%2Fsurerank.php&_wpnonce=9cb4fe4ab8"}],"notinstalled":[{"name":"SureForms","slug":"sureforms","init":"sureforms\/sureforms.php","action":"http:\/\/zeit-services.test\/wp-admin\/update.php?action=install-plugin&plugin=sureforms&_wpnonce=82158d46e8"},{"name":"SureCookie","slug":"surecookie","init":"surecookie\/surecookie.php","action":"http:\/\/zeit-services.test\/wp-admin\/update.php?action=install-plugin&plugin=surecookie&_wpnonce=70ff727916"}]},"third_party_required_plugins":[],"update_avilable_plugins":[],"incompatible_plugins":[],"error":false} | Context: {"required_plugins":{"active":[],"inactive":[{"name":"Spectra","slug":"ultimate-addons-for-gutenberg","init":"ultimate-addons-for-gutenberg\/ultimate-addons-for-gutenberg.php","action":"http:\/\/zeit-services.test\/wp-admin\/plugins.php?action=activate&plugin=ultimate-addons-for-gutenberg%2Fultimate-addons-for-gutenberg.php&_wpnonce=53389c247d"},{"name":"SureRank","slug":"surerank","init":"surerank\/surerank.php","action":"http:\/\/zeit-services.test\/wp-admin\/plugins.php?action=activate&plugin=surerank%2Fsurerank.php&_wpnonce=9cb4fe4ab8"}],"notinstalled":[{"name":"SureForms","slug":"sureforms","init":"sureforms\/sureforms.php","action":"http:\/\/zeit-services.test\/wp-admin\/update.php?action=install-plugin&plugin=sureforms&_wpnonce=82158d46e8"},{"name":"SureCookie","slug":"surecookie","init":"surecookie\/surecookie.php","action":"http:\/\/zeit-services.test\/wp-admin\/update.php?action=install-plugin&plugin=surecookie&_wpnonce=70ff727916"}]},"third_party_required_plugins":[],"update_avilable_plugins":[],"incompatible_plugins":[],"error":false}
+[09:16:47 UTC] [INFO] Starting import process | Context: {"template_type":"ai","uuid":"deddc258-feb0-41ed-b26f-e2f3b5449821"}
+[09:16:47 UTC] [SUCCESS] {"permissions":{"is_readable":true,"is_writable":true,"is_wp_filesystem":true},"directory":"C:\\laragon\\code\\zeit-services\/wp-content\/uploads"} | Context: {"permissions":{"is_readable":true,"is_writable":true,"is_wp_filesystem":true},"directory":"C:\\laragon\\code\\zeit-services\/wp-content\/uploads"}
+[09:16:47 UTC] [INFO] AI import started flag set | Context: {"uuid":"deddc258-feb0-41ed-b26f-e2f3b5449821"}
+[09:16:47 UTC] [INFO] Started Import Process
+[09:16:47 UTC] [INFO] # System Details: 
+[09:16:47 UTC] [INFO] Debug Mode 		: Desactivado
+[09:16:47 UTC] [INFO] Operating System 	: WINNT
+[09:16:47 UTC] [INFO] Software 		: Apache/2.4.54 (Win64) OpenSSL/1.1.1q PHP/8.1.10
+[09:16:47 UTC] [INFO] MySQL version 		: 8.0.30
+[09:16:47 UTC] [INFO] XML Reader 		: Sí
+[09:16:47 UTC] [INFO] PHP Version 		: 8.1.10
+[09:16:47 UTC] [INFO] PHP Max Input Vars 	: 1000
+[09:16:47 UTC] [INFO] PHP Max Post Size 	: 2G
+[09:16:47 UTC] [INFO] PHP Extension GD 	: Sí
+[09:16:47 UTC] [INFO] PHP Max Execution Time 	: 36000
+[09:16:47 UTC] [INFO] Max Upload Size 	: 2 GB
+[09:16:47 UTC] [INFO] Memory Limit 		: El límite de memoria actual es 40M. Recomendamos ajustar la memoria a por lo menos 64M.
+[09:16:47 UTC] [INFO] Timezone 		: -5
+[09:16:47 UTC] [INFO] 
+-----
+
+[09:16:47 UTC] [SUCCESS] Plugin activado | Context: {"success":true,"status":"activated","message":"Plugin activado"}
+[09:16:47 UTC] [INFO] ---
+
+[09:16:47 UTC] [INFO] WHY IMPORT PROCESS CAN FAIL? READ THIS - 
+[09:16:47 UTC] [INFO] https://wpastra.com/docs/?p=1314&utm_source=demo-import-panel&utm_campaign=import-error&utm_medium=wp-dashboard
+
+[09:16:47 UTC] [INFO] ---
+
+[09:16:47 UTC] [SUCCESS] Import process start flag set successfully | Context: {"template_type":"ai"}
+[09:16:49 UTC] [SUCCESS] Plugin activado | Context: {"success":true,"status":"activated","message":"Plugin activado"}
+[09:16:50 UTC] [SUCCESS] {"required_plugins":{"active":[{"name":"Spectra","slug":"ultimate-addons-for-gutenberg","init":"ultimate-addons-for-gutenberg\/ultimate-addons-for-gutenberg.php"}],"inactive":[{"name":"SureRank","slug":"surerank","init":"surerank\/surerank.php","action":"http:\/\/zeit-services.test\/wp-admin\/plugins.php?action=activate&plugin=surerank%2Fsurerank.php&_wpnonce=9cb4fe4ab8"}],"notinstalled":[{"name":"SureForms","slug":"sureforms","init":"sureforms\/sureforms.php","action":"http:\/\/zeit-services.test\/wp-admin\/update.php?action=install-plugin&plugin=sureforms&_wpnonce=82158d46e8"},{"name":"SureCookie","slug":"surecookie","init":"surecookie\/surecookie.php","action":"http:\/\/zeit-services.test\/wp-admin\/update.php?action=install-plugin&plugin=surecookie&_wpnonce=70ff727916"}]},"third_party_required_plugins":[],"update_avilable_plugins":[],"incompatible_plugins":[],"error":false} | Context: {"required_plugins":{"active":[{"name":"Spectra","slug":"ultimate-addons-for-gutenberg","init":"ultimate-addons-for-gutenberg\/ultimate-addons-for-gutenberg.php"}],"inactive":[{"name":"SureRank","slug":"surerank","init":"surerank\/surerank.php","action":"http:\/\/zeit-services.test\/wp-admin\/plugins.php?action=activate&plugin=surerank%2Fsurerank.php&_wpnonce=9cb4fe4ab8"}],"notinstalled":[{"name":"SureForms","slug":"sureforms","init":"sureforms\/sureforms.php","action":"http:\/\/zeit-services.test\/wp-admin\/update.php?action=install-plugin&plugin=sureforms&_wpnonce=82158d46e8"},{"name":"SureCookie","slug":"surecookie","init":"surecookie\/surecookie.php","action":"http:\/\/zeit-services.test\/wp-admin\/update.php?action=install-plugin&plugin=surecookie&_wpnonce=70ff727916"}]},"third_party_required_plugins":[],"update_avilable_plugins":[],"incompatible_plugins":[],"error":false}
+[09:16:51 UTC] [SUCCESS] {"permissions":{"is_readable":true,"is_writable":true,"is_wp_filesystem":true},"directory":"C:\\laragon\\code\\zeit-services\/wp-content\/uploads"} | Context: {"permissions":{"is_readable":true,"is_writable":true,"is_wp_filesystem":true},"directory":"C:\\laragon\\code\\zeit-services\/wp-content\/uploads"}
+[09:16:51 UTC] [SUCCESS] Plugin activado | Context: {"success":true,"status":"activated","message":"Plugin activado"}
+[09:16:51 UTC] [INFO] Checking if plugin directory clearing is needed
+[09:16:51 UTC] [INFO] Plugin install clear directory - Not an Astra Sites request, skipping
+[09:16:54 UTC] [INFO] Checking if plugin directory clearing is needed
+[09:16:54 UTC] [INFO] Plugin install clear directory - Not an Astra Sites request, skipping
+[09:16:57 UTC] [INFO] Checking if plugin directory clearing is needed
+[09:16:57 UTC] [INFO] Plugin install clear directory - Not an Astra Sites request, skipping
+[09:17:01 UTC] [INFO] Checking if plugin directory clearing is needed
+[09:17:01 UTC] [INFO] Plugin install clear directory - Not an Astra Sites request, skipping
+[09:17:01 UTC] [SUCCESS] Plugin activado | Context: {"success":true,"status":"activated","message":"Plugin activado"}
+[09:17:04 UTC] [SUCCESS] Plugin activado | Context: {"success":true,"status":"activated","message":"Plugin activado"}
+[09:17:27 UTC] [INFO] ---
+
+[09:17:27 UTC] [INFO] Starting import customizer settings
+[09:17:27 UTC] [INFO] Importing customizer settings | Context: {"settings_count":0}
+[09:17:27 UTC] [INFO] Fetched customizer data from site data | Context: {"settings_count":2}
+[09:17:27 UTC] [INFO] Starting customizer settings import | Context: {"settings_count":2}
+[09:17:27 UTC] [INFO] Validating customizer data keys | Context: {"keys":["astra-settings","custom-css"]}
+[09:17:27 UTC] [INFO] Old customizer data backed up
+[09:17:27 UTC] [SUCCESS] Astra theme settings updated | Context: {"option_key":"astra-settings"}
+[09:17:27 UTC] [SUCCESS] Custom CSS updated | Context: {"option_key":"custom-css"}
+[09:17:27 UTC] [SUCCESS] Customizer settings import completed successfully
+[09:17:27 UTC] [SUCCESS] Customizer settings imported successfully
+[09:17:28 UTC] [INFO] ---
+
+[09:17:28 UTC] [INFO] Starting import Spectra settings
+[09:17:28 UTC] [INFO] Starting Spectra settings import | Context: {"settings_count":28}
+[09:17:29 UTC] [SUCCESS] Spectra settings imported successfully
+[09:17:29 UTC] [SUCCESS] Spectra settings imported successfully. | Context: {"message":"Spectra settings imported successfully.","url":""}
+[09:17:32 UTC] [INFO] {"post_title":"Response XML","post_mime_type":"application\/xml","post_content":"","post_status":"inherit"}
+[09:17:32 UTC] [INFO] "C:\\laragon\\code\\zeit-services\/wp-content\/uploads\/2026\/07\/wxr.xml"
+[09:17:32 UTC] [INFO] 23
+[09:17:32 UTC] [INFO] info | Context: {"xml_file_path":"C:\\laragon\\code\\zeit-services\/wp-content\/uploads\/2026\/07\/wxr.xml","xml_post_id":23}
+[09:17:32 UTC] [INFO] success | Context: {"xml_file_path":"C:\\laragon\\code\\zeit-services\/wp-content\/uploads\/2026\/07\/wxr.xml","post_count":22,"media_count":30,"author_count":3,"comment_count":4,"term_count":9}
+[09:17:33 UTC] [INFO] info | Context: {"xml_url_provided":false}
+[09:17:33 UTC] [INFO] info | Context: {"xml_url":"C:\\laragon\\code\\zeit-services\/wp-content\/uploads\/2026\/07\/wxr.xml","file_size":2609322}
+[09:18:02 UTC] [INFO] success | Context: {"post_id":29,"post_type":"page","original_id":29,"post_title":"Home"}
+[09:18:02 UTC] [INFO] success | Context: {"post_id":37,"post_type":"nav_menu_item","original_id":37,"post_title":"Home"}
+[09:18:03 UTC] [INFO] success | Context: {"post_id":38,"post_type":"nav_menu_item","original_id":38,"post_title":"About"}
+[09:18:03 UTC] [INFO] success | Context: {"post_id":39,"post_type":"nav_menu_item","original_id":39,"post_title":"Offerings"}
+[09:18:03 UTC] [INFO] success | Context: {"post_id":40,"post_type":"nav_menu_item","original_id":40,"post_title":"Contact"}
+[09:18:04 UTC] [INFO] success | Context: {"post_id":418,"post_type":"nav_menu_item","original_id":418,"post_title":"Cleaning Services"}
+[09:18:04 UTC] [INFO] success | Context: {"post_id":419,"post_type":"nav_menu_item","original_id":419,"post_title":"Painting Services"}
+[09:18:04 UTC] [INFO] success | Context: {"post_id":420,"post_type":"nav_menu_item","original_id":420,"post_title":"Home Remodeling"}
+[09:18:04 UTC] [INFO] success | Context: {"post_id":421,"post_type":"nav_menu_item","original_id":421,"post_title":"Flooring Solutions"}
+[09:18:23 UTC] [INFO] success | Context: {"post_id":727,"post_type":"nav_menu_item","original_id":727,"post_title":"Blog"}
+[09:18:26 UTC] [INFO] success | Context: {"post_id":30,"post_type":"page","original_id":30,"post_title":"About"}
+[09:18:26 UTC] [INFO] success | Context: {"post_id":31,"post_type":"page","original_id":31,"post_title":"Offerings"}
+[09:18:27 UTC] [INFO] success | Context: {"post_id":32,"post_type":"page","original_id":32,"post_title":"Contact"}
+[09:18:27 UTC] [INFO] success | Context: {"post_id":81,"post_type":"wp_global_styles","original_id":81,"post_title":"Custom Styles"}
+[09:18:27 UTC] [INFO] success | Context: {"post_id":244,"post_type":"post","original_id":244,"post_title":"Mastering the First Impression: Your intriguing post title goes here"}
+[09:18:27 UTC] [INFO] success | Context: {"post_id":246,"post_type":"post","original_id":246,"post_title":"The Art of Drawing Readers In: Your attractive post title goes here"}
+[09:18:27 UTC] [INFO] success | Context: {"post_id":247,"post_type":"post","original_id":247,"post_title":"Crafting Captivating Headlines: Your awesome post title goes here"}
+[09:18:27 UTC] [INFO] success | Context: {"post_id":270,"post_type":"wp_block","original_id":270,"post_title":"Footer CTA"}
+[09:18:27 UTC] [INFO] success | Context: {"post_id":284,"post_type":"wp_block","original_id":284,"post_title":"Footer CTA"}
+[09:18:27 UTC] [INFO] success | Context: {"post_id":514,"post_type":"wp_block","original_id":514,"post_title":"Footer CTA"}
+[09:18:27 UTC] [INFO] success | Context: {"post_id":724,"post_type":"page","original_id":724,"post_title":"Blog"}
+[09:18:27 UTC] [INFO] success | Context: {"post_id":820,"post_type":"sureforms_form","original_id":820,"post_title":"Simple Contact Form"}
+[09:18:27 UTC] [INFO] success | Context: {"xml_url":"C:\\laragon\\code\\zeit-services\/wp-content\/uploads\/2026\/07\/wxr.xml"}
+[09:18:29 UTC] [INFO] ---
+
+[09:18:29 UTC] [INFO] Starting import options
+[09:18:29 UTC] [INFO] Importing site options | Context: {"options":[]}
+[09:18:29 UTC] [INFO] Starting site options import | Context: {"options_count":13}
+[09:18:29 UTC] [INFO] Old site options backed up
+[09:18:29 UTC] [INFO] Processing option | Context: {"option_name":"custom_logo"}
+[09:18:29 UTC] [INFO] Importing custom logo | Context: {"logo_id":""}
+[09:18:29 UTC] [INFO] info | Context: {"url":""}
+[09:18:29 UTC] [INFO] error | Context: {"url":""}
+[09:18:29 UTC] [INFO] error | Context: {"url":""}
+[09:18:29 UTC] [INFO] Processing option | Context: {"option_name":"nav_menu_locations"}
+[09:18:29 UTC] [INFO] Setting navigation menu locations | Context: {"menu_count":2}
+[09:18:29 UTC] [INFO] info | Context: {"total_locations":2}
+[09:18:29 UTC] [INFO] info | Context: {"location":"primary","slug":"primary-menu","menu_id":6}
+[09:18:29 UTC] [INFO] info | Context: {"location":"mobile_menu","slug":"primary-menu","menu_id":6}
+[09:18:29 UTC] [INFO] success | Context: {"successful_mappings":2,"failed_locations":[],"total_locations":2}
+[09:18:29 UTC] [INFO] Processing option | Context: {"option_name":"show_on_front"}
+[09:18:29 UTC] [INFO] Updating standard option | Context: {"option_name":"show_on_front"}
+[09:18:29 UTC] [INFO] Processing option | Context: {"option_name":"page_on_front"}
+[09:18:29 UTC] [INFO] Updating page ID option | Context: {"option_name":"page_on_front","option_value":"Home"}
+[09:18:29 UTC] [INFO] info | Context: {"option_name":"page_on_front","option_value":"Home"}
+[09:18:29 UTC] [INFO] success | Context: {"option_name":"page_on_front","page_title":"Home","page_id":29}
+[09:18:29 UTC] [INFO] Processing option | Context: {"option_name":"page_for_posts"}
+[09:18:29 UTC] [INFO] Updating page ID option | Context: {"option_name":"page_for_posts","option_value":"Blog"}
+[09:18:29 UTC] [INFO] info | Context: {"option_name":"page_for_posts","option_value":"Blog"}
+[09:18:29 UTC] [INFO] success | Context: {"option_name":"page_for_posts","page_title":"Blog","page_id":724}
+[09:18:29 UTC] [INFO] Processing option | Context: {"option_name":"site_title"}
+[09:18:29 UTC] [INFO] Updating site title | Context: {"site_title":"Preschool"}
+[09:18:29 UTC] [INFO] Processing option | Context: {"option_name":"astra-color-palettes"}
+[09:18:29 UTC] [INFO] Updating standard option | Context: {"option_name":"astra-color-palettes"}
+[09:18:29 UTC] [INFO] Processing option | Context: {"option_name":"astra-typography-presets"}
+[09:18:29 UTC] [INFO] Updating standard option | Context: {"option_name":"astra-typography-presets"}
+[09:18:29 UTC] [INFO] Processing option | Context: {"option_name":"srfm_general_settings_options"}
+[09:18:29 UTC] [INFO] Updating standard option | Context: {"option_name":"srfm_general_settings_options"}
+[09:18:29 UTC] [INFO] Processing option | Context: {"option_name":"get_default_dynamic_block_option"}
+[09:18:29 UTC] [INFO] Updating standard option | Context: {"option_name":"get_default_dynamic_block_option"}
+[09:18:29 UTC] [INFO] Processing option | Context: {"option_name":"srfm_default_dynamic_block_option"}
+[09:18:29 UTC] [INFO] Updating standard option | Context: {"option_name":"srfm_default_dynamic_block_option"}
+[09:18:29 UTC] [INFO] Processing option | Context: {"option_name":"srfm_email_summary_settings_options"}
+[09:18:29 UTC] [INFO] Updating standard option | Context: {"option_name":"srfm_email_summary_settings_options"}
+[09:18:29 UTC] [INFO] Processing option | Context: {"option_name":"srfm_security_settings_options"}
+[09:18:29 UTC] [INFO] Updating standard option | Context: {"option_name":"srfm_security_settings_options"}
+[09:18:29 UTC] [INFO] Running st_importer_import_site_options action
+[09:18:29 UTC] [INFO] Processing site options import - Total options: 13
+[09:18:29 UTC] [INFO] Inserting custom logo from URL: 
+[09:18:29 UTC] [INFO] Starting image import for URL: 
+[09:18:29 UTC] [WARNING] Invalid image URL provided: 
+[09:18:29 UTC] [WARNING] Failed to download logo image from: 
+[09:18:29 UTC] [INFO] Setting nav menu locations - Total menus: 2
+[09:18:29 UTC] [INFO] Menu location 'primary' set to term ID: 6
+[09:18:29 UTC] [INFO] Menu location 'mobile_menu' set to term ID: 6
+[09:18:29 UTC] [SUCCESS] Nav menu locations updated successfully
+[09:18:29 UTC] [INFO] Updated option: show_on_front | Context: "page"
+[09:18:29 UTC] [INFO] Updating page ID for option: page_on_front with value: Home
+[09:18:29 UTC] [INFO] Page ID updated for page_on_front: 29
+[09:18:29 UTC] [INFO] Updating page ID for option: page_for_posts with value: Blog
+[09:18:29 UTC] [INFO] Page ID updated for page_for_posts: 724
+[09:18:29 UTC] [INFO] Site title (blogname) updated successfully to Preschool
+[09:18:29 UTC] [INFO] Updated option: astra-color-palettes | Context: {"currentPalette":"palette_1","palettes":{"palette_1":["#00947d","#f9ac39","#054d42","#496e68","#fef8ec","#FFFFFF","#e2dacb","#000000","#000000"],"palette_2":["#0170b9","#3a3a3a","#3a3a3a","#4b4f58","#f5f5f5","#ffffff","#f2f5f7","#424242","#000000"],"palette_3":["#0170B9","#3a3a3a","#3a3a3a","#4B4F58","#F5F5F5","#FFFFFF","#F2F5F7","#424242","#000000"],"palette_4":["#0085FF","#0177E3","#FFFFFF","#E7F6FF","#212A37","#0F172A","#4F5B62","#070614","#222222"]},"flag":false,"presets":{"Oak":["#0067FF","#005EE9","#0F172A","#364151","#E7F6FF","#FFFFFF","#D1DAE5","#070614","#222222"],"Viola":["#6528F7","#5511F8","#0F172A","#454F5E","#F2F0FE","#FFFFFF","#D8D8F5","#0D0614","#222222"],"Cedar":["#DD183B","#CC1939","#0F172A","#3A3A3A","#FFEDE6","#FFFFFF","#FFD1BF","#140609","#222222"],"Willow":["#54B435","#379237","#0F172A","#2F3B40","#EDFBE2","#FFFFFF","#D5EAD8","#0C1406","#222222"],"Lily":["#DCA54A","#D09A40","#0F172A","#4A4A4A","#FAF5E5","#FFFFFF","#F0E6C5","#141004","#222222"],"Rose":["#FB5FAB","#EA559D","#0F172A","#454F5E","#FCEEF5","#FFFFFF","#FAD8E9","#140610","#222222"],"Sage":["#1B9C85","#178E79","#0F172A","#454F5E","#EDF6EE","#FFFFFF","#D4F3D7","#06140C","#222222"],"Flare":["#FD9800","#E98C00","#0F172A","#454F5E","#FEF9E1","#FFFFFF","#F9F0C8","#141006","#222222"],"Maple":["#FF6210","#F15808","#1C0D0A","#353535","#FEF1E4","#FFFFFF","#E5D7D1","#140B06","#222222"],"Birch":["#737880","#65696F","#151616","#393C40","#F6F6F6","#FFFFFF","#F1F0F0","#232529","#222222"],"Dark":["#0085FF","#0177E3","#FFFFFF","#E7F6FF","#212A37","#0F172A","#4F5B62","#070614","#222222"]},"presetNames":{"palette_1":null,"palette_2":null,"palette_3":null,"palette_4":"Dark"}}
+[09:18:29 UTC] [INFO] Updated option: astra-typography-presets
+[09:18:29 UTC] [INFO] Updated option: srfm_general_settings_options
+[09:18:29 UTC] [INFO] Updated option: get_default_dynamic_block_option
+[09:18:29 UTC] [INFO] Updated option: srfm_default_dynamic_block_option | Context: {"srfm_url_block_required_text":"This field is required.","srfm_input_block_required_text":"This field is required.","srfm_input_block_unique_text":"Value needs to be unique.","srfm_address_block_required_text":"This field is required.","srfm_phone_block_required_text":"This field is required.","srfm_phone_block_unique_text":"Value needs to be unique.","srfm_number_block_required_text":"This field is required.","srfm_textarea_block_required_text":"This field is required.","srfm_multi_choice_block_required_text":"This field is required.","srfm_checkbox_block_required_text":"This field is required.","srfm_gdpr_block_required_text":"This field is required.","srfm_email_block_required_text":"This field is required.","srfm_email_block_unique_text":"Value needs to be unique.","srfm_dropdown_block_required_text":"This field is required.","srfm_rating_block_required_text":"This field is required.","srfm_valid_phone_number":"Please enter a valid phone number.","srfm_valid_url":"Please enter a valid URL.","srfm_confirm_email_same":"Confirmation email does not match.","srfm_valid_email":"Please enter a valid email address.","srfm_input_min_value":"Minimum value is %s","srfm_input_max_value":"Maximum value is %s","srfm_dropdown_min_selections":"Minimum %s selections are required","srfm_dropdown_max_selections":"Maximum %s selections are allowed","srfm_multi_choice_min_selections":"Minimum %s selections are required","srfm_multi_choice_max_selections":"Maximum %s selections are allowed"}
+[09:18:29 UTC] [INFO] Updated option: srfm_email_summary_settings_options
+[09:18:29 UTC] [INFO] Updated option: srfm_security_settings_options
+[09:18:29 UTC] [SUCCESS] Classic templates options import completed successfully
+[09:18:29 UTC] [SUCCESS] Site options import completed successfully | Context: {"processed_count":13,"skipped_count":0,"total_count":13}
+[09:18:29 UTC] [SUCCESS] Site options Imported!
+[09:18:31 UTC] [INFO] ---
+
+[09:18:31 UTC] [INFO] Starting import widgets
+[09:18:31 UTC] [INFO] Importing widgets
+[09:18:31 UTC] [INFO] Starting widgets import
+[09:18:31 UTC] [INFO] Processing widget data | Context: {"data_type":"string","widgets_data_type":"string"}
+[09:18:31 UTC] [INFO] Parsing widget data from JSON string
+[09:18:31 UTC] [INFO] Importing widget data via ST_Widget_Importer
+[09:18:31 UTC] [INFO] Starting widget import process
+[09:18:31 UTC] [INFO] Checking available widgets | Context: {"widget_control_count":22}
+[09:18:31 UTC] [INFO] Widget availability check completed | Context: {"available_widget_count":18,"available_widgets":["pages","calendar","archives","media_audio","media_image","media_gallery","media_video","meta","search","text","categories","recent-posts","recent-comments","rss","tag_cloud","nav_menu","custom_html","block"]}
+[09:18:31 UTC] [INFO] Loaded widget configuration | Context: {"available_widget_types":18,"sidebar_count":5}
+[09:18:31 UTC] [INFO] Processing sidebars from import data | Context: {"sidebar_count_in_data":5}
+[09:18:31 UTC] [INFO] Processing sidebar: sidebar-1 | Context: {"sidebar_name":"Barra lateral principal","widget_count":5,"availability":"available"}
+[09:18:31 UTC] [INFO] Processing widget: block-2 | Context: {"widget_type":"block","instance_id":"2","sidebar_id":"sidebar-1"}
+[09:18:31 UTC] [WARNING] Duplicate widget skipped: block-2 | Context: {"widget_type":"block","existing_instance_id":"block-2","sidebar_id":"sidebar-1"}
+[09:18:31 UTC] [INFO] Processing widget: block-3 | Context: {"widget_type":"block","instance_id":"3","sidebar_id":"sidebar-1"}
+[09:18:31 UTC] [INFO] Widget data formatted and saved: block | Context: {"widget_type":"block","instance_count":7,"update_result":true}
+[09:18:31 UTC] [SUCCESS] Widget imported successfully: block-7 | Context: {"widget_type":"block","new_instance_id":"block-7","sidebar_id":"sidebar-1","widget_title":"No Title"}
+[09:18:31 UTC] [INFO] Processing widget: block-4 | Context: {"widget_type":"block","instance_id":"4","sidebar_id":"sidebar-1"}
+[09:18:31 UTC] [INFO] Widget data formatted and saved: block | Context: {"widget_type":"block","instance_count":8,"update_result":true}
+[09:18:31 UTC] [SUCCESS] Widget imported successfully: block-8 | Context: {"widget_type":"block","new_instance_id":"block-8","sidebar_id":"sidebar-1","widget_title":"No Title"}
+[09:18:31 UTC] [INFO] Processing widget: block-5 | Context: {"widget_type":"block","instance_id":"5","sidebar_id":"sidebar-1"}
+[09:18:32 UTC] [INFO] Widget data formatted and saved: block | Context: {"widget_type":"block","instance_count":9,"update_result":true}
+[09:18:32 UTC] [SUCCESS] Widget imported successfully: block-9 | Context: {"widget_type":"block","new_instance_id":"block-9","sidebar_id":"sidebar-1","widget_title":"No Title"}
+[09:18:32 UTC] [INFO] Processing widget: block-6 | Context: {"widget_type":"block","instance_id":"6","sidebar_id":"sidebar-1"}
+[09:18:32 UTC] [INFO] Widget data formatted and saved: block | Context: {"widget_type":"block","instance_count":10,"update_result":true}
+[09:18:32 UTC] [SUCCESS] Widget imported successfully: block-10 | Context: {"widget_type":"block","new_instance_id":"block-10","sidebar_id":"sidebar-1","widget_title":"No Title"}
+[09:18:32 UTC] [INFO] Processing sidebar: footer-widget-1 | Context: {"sidebar_name":"Footer Builder Widget 1","widget_count":1,"availability":"available"}
+[09:18:32 UTC] [INFO] Processing widget: block-36 | Context: {"widget_type":"block","instance_id":"36","sidebar_id":"footer-widget-1"}
+[09:18:32 UTC] [INFO] Widget data formatted and saved: block | Context: {"widget_type":"block","instance_count":11,"update_result":true}
+[09:18:32 UTC] [SUCCESS] Widget imported successfully: block-11 | Context: {"widget_type":"block","new_instance_id":"block-11","sidebar_id":"footer-widget-1","widget_title":"No Title"}
+[09:18:32 UTC] [INFO] Processing sidebar: footer-widget-2 | Context: {"sidebar_name":"Barra del pie de p\u00e1gina 2","widget_count":1,"availability":"available"}
+[09:18:32 UTC] [INFO] Processing widget: block-45 | Context: {"widget_type":"block","instance_id":"45","sidebar_id":"footer-widget-2"}
+[09:18:32 UTC] [INFO] Widget data formatted and saved: block | Context: {"widget_type":"block","instance_count":12,"update_result":true}
+[09:18:32 UTC] [SUCCESS] Widget imported successfully: block-12 | Context: {"widget_type":"block","new_instance_id":"block-12","sidebar_id":"footer-widget-2","widget_title":"No Title"}
+[09:18:32 UTC] [INFO] Processing sidebar: footer-widget-3 | Context: {"sidebar_name":"Footer Builder Widget 3","widget_count":2,"availability":"available"}
+[09:18:32 UTC] [INFO] Processing widget: block-42 | Context: {"widget_type":"block","instance_id":"42","sidebar_id":"footer-widget-3"}
+[09:18:32 UTC] [INFO] Widget data formatted and saved: block | Context: {"widget_type":"block","instance_count":13,"update_result":true}
+[09:18:32 UTC] [SUCCESS] Widget imported successfully: block-13 | Context: {"widget_type":"block","new_instance_id":"block-13","sidebar_id":"footer-widget-3","widget_title":"No Title"}
+[09:18:32 UTC] [INFO] Processing widget: nav_menu-3 | Context: {"widget_type":"nav_menu","instance_id":"3","sidebar_id":"footer-widget-3"}
+[09:18:32 UTC] [INFO] Widget data formatted and saved: nav_menu | Context: {"widget_type":"nav_menu","instance_count":2,"update_result":true}
+[09:18:32 UTC] [SUCCESS] Widget imported successfully: nav_menu-1 | Context: {"widget_type":"nav_menu","new_instance_id":"nav_menu-1","sidebar_id":"footer-widget-3","widget_title":"No Title"}
+[09:18:32 UTC] [INFO] Processing sidebar: footer-widget-4 | Context: {"sidebar_name":"Footer Builder Widget 4","widget_count":1,"availability":"available"}
+[09:18:32 UTC] [INFO] Processing widget: block-23 | Context: {"widget_type":"block","instance_id":"23","sidebar_id":"footer-widget-4"}
+[09:18:32 UTC] [INFO] Widget data formatted and saved: block | Context: {"widget_type":"block","instance_count":14,"update_result":true}
+[09:18:32 UTC] [SUCCESS] Widget imported successfully: block-14 | Context: {"widget_type":"block","new_instance_id":"block-14","sidebar_id":"footer-widget-4","widget_title":"No Title"}
+[09:18:32 UTC] [INFO] Widget import process completed | Context: {"total_sidebars_processed":5,"successful_imports":9,"warnings":1,"errors":0,"total_widgets_processed":10}
+[09:18:32 UTC] [INFO] Retrieving current sidebars and widgets
+[09:18:32 UTC] [INFO] Backing up old widgets data | Context: {"sidebars_count":11}
+[09:18:32 UTC] [SUCCESS] Widgets import completed successfully
+[09:18:32 UTC] [SUCCESS] Widget Imported!
+[09:18:33 UTC] [INFO] ---
+
+[09:18:33 UTC] [INFO] Starting page builder batch processing for Gutenberg
+[09:18:33 UTC] [INFO] Gutenberg batch processing started
+[09:18:33 UTC] [INFO] Gutenberg posts retrieved for processing | Context: {"post_count":12,"post_types":"page, post, wp_block, wp_template, wp_navigation, wp_template_part, wp_global_styles, sc_form, spectra-popup, sfwd-courses, sfwd-lessons, sfwd-topic, sfwd-quiz, sfwd-certificates, sfwd-assignment"}
+[09:18:33 UTC] [INFO] Processing Gutenberg post | Context: {"post_id":32}
+[09:18:33 UTC] [INFO] Updating post content (first pass) | Context: {"post_id":32}
+[09:18:33 UTC] [INFO] Starting link extraction and replacement process
+[09:18:33 UTC] [INFO] Links discovered in content | Context: {"total_links":2}
+[09:18:33 UTC] [INFO] Starting link replacements in content | Context: {"replacements_count":2}
+[09:18:33 UTC] [SUCCESS] Link replacement process completed | Context: {"total_replacements":2}
+[09:18:33 UTC] [INFO] Updating post content (second pass with link replacements) | Context: {"post_id":32}
+[09:18:33 UTC] [SUCCESS] Successfully completed processing Gutenberg post | Context: {"post_id":32}
+[09:18:33 UTC] [INFO] Processing Gutenberg post | Context: {"post_id":81}
+[09:18:33 UTC] [INFO] Updating post content (first pass) | Context: {"post_id":81}
+[09:18:33 UTC] [INFO] Starting link extraction and replacement process
+[09:18:33 UTC] [INFO] Links discovered in content | Context: {"total_links":0}
+[09:18:33 UTC] [INFO] No links found in content, skipping replacement
+[09:18:33 UTC] [INFO] Updating post content (second pass with link replacements) | Context: {"post_id":81}
+[09:18:33 UTC] [SUCCESS] Successfully completed processing Gutenberg post | Context: {"post_id":81}
+[09:18:33 UTC] [INFO] Processing Gutenberg post | Context: {"post_id":244}
+[09:18:33 UTC] [INFO] Updating post content (first pass) | Context: {"post_id":244}
+[09:18:33 UTC] [INFO] Starting link extraction and replacement process
+[09:18:33 UTC] [INFO] Links discovered in content | Context: {"total_links":0}
+[09:18:33 UTC] [INFO] No links found in content, skipping replacement
+[09:18:33 UTC] [INFO] Updating post content (second pass with link replacements) | Context: {"post_id":244}
+[09:18:33 UTC] [SUCCESS] Successfully completed processing Gutenberg post | Context: {"post_id":244}
+[09:18:33 UTC] [INFO] Processing Gutenberg post | Context: {"post_id":246}
+[09:18:33 UTC] [INFO] Updating post content (first pass) | Context: {"post_id":246}
+[09:18:33 UTC] [INFO] Starting link extraction and replacement process
+[09:18:33 UTC] [INFO] Links discovered in content | Context: {"total_links":0}
+[09:18:33 UTC] [INFO] No links found in content, skipping replacement
+[09:18:33 UTC] [INFO] Updating post content (second pass with link replacements) | Context: {"post_id":246}
+[09:18:33 UTC] [SUCCESS] Successfully completed processing Gutenberg post | Context: {"post_id":246}
+[09:18:33 UTC] [INFO] Processing Gutenberg post | Context: {"post_id":247}
+[09:18:33 UTC] [INFO] Updating post content (first pass) | Context: {"post_id":247}
+[09:18:33 UTC] [INFO] Starting link extraction and replacement process
+[09:18:33 UTC] [INFO] Links discovered in content | Context: {"total_links":0}
+[09:18:33 UTC] [INFO] No links found in content, skipping replacement
+[09:18:33 UTC] [INFO] Updating post content (second pass with link replacements) | Context: {"post_id":247}
+[09:18:33 UTC] [SUCCESS] Successfully completed processing Gutenberg post | Context: {"post_id":247}
+[09:18:33 UTC] [INFO] Processing Gutenberg post | Context: {"post_id":270}
+[09:18:33 UTC] [INFO] Updating post content (first pass) | Context: {"post_id":270}
+[09:18:33 UTC] [INFO] Starting link extraction and replacement process
+[09:18:33 UTC] [INFO] Links discovered in content | Context: {"total_links":0}
+[09:18:33 UTC] [INFO] No links found in content, skipping replacement
+[09:18:33 UTC] [INFO] Updating post content (second pass with link replacements) | Context: {"post_id":270}
+[09:18:33 UTC] [SUCCESS] Successfully completed processing Gutenberg post | Context: {"post_id":270}
+[09:18:33 UTC] [INFO] Processing Gutenberg post | Context: {"post_id":284}
+[09:18:33 UTC] [INFO] Updating post content (first pass) | Context: {"post_id":284}
+[09:18:33 UTC] [INFO] Starting link extraction and replacement process
+[09:18:33 UTC] [INFO] Links discovered in content | Context: {"total_links":0}
+[09:18:33 UTC] [INFO] No links found in content, skipping replacement
+[09:18:33 UTC] [INFO] Updating post content (second pass with link replacements) | Context: {"post_id":284}
+[09:18:34 UTC] [SUCCESS] Successfully completed processing Gutenberg post | Context: {"post_id":284}
+[09:18:34 UTC] [INFO] Processing Gutenberg post | Context: {"post_id":514}
+[09:18:34 UTC] [INFO] Updating post content (first pass) | Context: {"post_id":514}
+[09:18:34 UTC] [INFO] Starting link extraction and replacement process
+[09:18:34 UTC] [INFO] Links discovered in content | Context: {"total_links":0}
+[09:18:34 UTC] [INFO] No links found in content, skipping replacement
+[09:18:34 UTC] [INFO] Updating post content (second pass with link replacements) | Context: {"post_id":514}
+[09:18:34 UTC] [SUCCESS] Successfully completed processing Gutenberg post | Context: {"post_id":514}
+[09:18:34 UTC] [INFO] Processing Gutenberg post | Context: {"post_id":724}
+[09:18:34 UTC] [INFO] Updating post content (first pass) | Context: {"post_id":724}
+[09:18:34 UTC] [INFO] Starting link extraction and replacement process
+[09:18:34 UTC] [INFO] Links discovered in content | Context: {"total_links":0}
+[09:18:34 UTC] [INFO] No links found in content, skipping replacement
+[09:18:34 UTC] [INFO] Updating post content (second pass with link replacements) | Context: {"post_id":724}
+[09:18:34 UTC] [SUCCESS] Successfully completed processing Gutenberg post | Context: {"post_id":724}
+[09:18:34 UTC] [INFO] Processing Gutenberg post | Context: {"post_id":30}
+[09:18:34 UTC] [INFO] Updating post content (first pass) | Context: {"post_id":30}
+[09:18:34 UTC] [INFO] Starting link extraction and replacement process
+[09:18:34 UTC] [INFO] Links discovered in content | Context: {"total_links":14}
+[09:18:34 UTC] [INFO] Downloading images through ST_Image_Importer | Context: {"image_count":9}
+[09:18:34 UTC] [INFO] Starting image import for URL: https://preschool.ziptemplates.top/wp-content/uploads/2023/08/about-hero.jpg
+[09:18:34 UTC] [INFO] Image already exists in media library (ID: 42), skipping download
+[09:18:34 UTC] [INFO] Starting image import for URL: https://preschool.ziptemplates.top/wp-includes/images/media/default.png
+[09:18:34 UTC] [INFO] Downloading image from remote URL: https://preschool.ziptemplates.top/wp-includes/images/media/default.png
+[09:18:35 UTC] [INFO] Successfully downloaded image, preparing to upload: default.png
+[09:18:35 UTC] [INFO] Image uploaded successfully: http://zeit-services.test/wp-content/uploads/2026/07/default.png
+[09:18:35 UTC] [INFO] Attachment post created with ID: 831
+[09:18:35 UTC] [INFO] Generating attachment metadata for attachment ID: 831
+[09:18:35 UTC] [INFO] Attachment metadata generated and saved for attachment ID: 831
+[09:18:35 UTC] [INFO] Image import completed successfully - ID: 831, URL: http://zeit-services.test/wp-content/uploads/2026/07/default.png
+[09:18:35 UTC] [INFO] Starting image import for URL: https://preschool.ziptemplates.top/wp-content/uploads/2023/08/about-hero-150x150.jpg
+[09:18:35 UTC] [INFO] Image already exists in media library (ID: 42), skipping download
+[09:18:35 UTC] [INFO] Starting image import for URL: https://preschool.ziptemplates.top/wp-content/uploads/2023/08/about-hero-240x300.jpg
+[09:18:35 UTC] [INFO] Image already exists in media library (ID: 42), skipping download
+[09:18:35 UTC] [INFO] Starting image import for URL: https://preschool.ziptemplates.top/wp-content/uploads/2024/03/teams-skip-05-819x1024.jpeg
+[09:18:35 UTC] [INFO] Image already exists in media library (ID: 718), skipping download
+[09:18:35 UTC] [INFO] Starting image import for URL: https://preschool.ziptemplates.top/wp-content/uploads/2024/03/teams-skip-05-scaled.jpeg
+[09:18:35 UTC] [INFO] Image already exists in media library (ID: 718), skipping download
+[09:18:35 UTC] [INFO] Starting image import for URL: https://preschool.ziptemplates.top/wp-content/uploads/2023/08/our-teacher-skip-02.jpg
+[09:18:35 UTC] [INFO] Image already exists in media library (ID: 56), skipping download
+[09:18:35 UTC] [INFO] Starting image import for URL: https://preschool.ziptemplates.top/wp-content/uploads/2023/08/our-teacher-skip-03.jpg
+[09:18:35 UTC] [INFO] Image already exists in media library (ID: 57), skipping download
+[09:18:35 UTC] [INFO] Starting image import for URL: https://preschool.ziptemplates.top/wp-content/uploads/2023/08/our-teacher-skip-04.jpg
+[09:18:35 UTC] [INFO] Image already exists in media library (ID: 58), skipping download
+[09:18:35 UTC] [INFO] Starting link replacements in content | Context: {"replacements_count":14}
+[09:18:35 UTC] [SUCCESS] Link replacement process completed | Context: {"total_replacements":14}
+[09:18:35 UTC] [INFO] Updating post content (second pass with link replacements) | Context: {"post_id":30}
+[09:18:35 UTC] [SUCCESS] Successfully completed processing Gutenberg post | Context: {"post_id":30}
+[09:18:35 UTC] [INFO] Processing Gutenberg post | Context: {"post_id":31}
+[09:18:35 UTC] [INFO] Updating post content (first pass) | Context: {"post_id":31}
+[09:18:35 UTC] [INFO] Starting link extraction and replacement process
+[09:18:35 UTC] [INFO] Links discovered in content | Context: {"total_links":4}
+[09:18:35 UTC] [INFO] Downloading images through ST_Image_Importer | Context: {"image_count":4}
+[09:18:35 UTC] [INFO] Starting image import for URL: https://preschool.ziptemplates.top/wp-content/uploads/2023/08/program-01.jpg
+[09:18:35 UTC] [INFO] Image already exists in media library (ID: 59), skipping download
+[09:18:35 UTC] [INFO] Starting image import for URL: https://preschool.ziptemplates.top/wp-content/uploads/2023/08/program-02.jpg
+[09:18:35 UTC] [INFO] Image already exists in media library (ID: 60), skipping download
+[09:18:35 UTC] [INFO] Starting image import for URL: https://preschool.ziptemplates.top/wp-content/uploads/2023/08/program-03.jpg
+[09:18:35 UTC] [INFO] Image already exists in media library (ID: 61), skipping download
+[09:18:35 UTC] [INFO] Starting image import for URL: https://preschool.ziptemplates.top/wp-content/uploads/2023/08/program-04.jpg
+[09:18:35 UTC] [INFO] Image already exists in media library (ID: 62), skipping download
+[09:18:35 UTC] [INFO] Starting link replacements in content | Context: {"replacements_count":4}
+[09:18:35 UTC] [SUCCESS] Link replacement process completed | Context: {"total_replacements":4}
+[09:18:35 UTC] [INFO] Updating post content (second pass with link replacements) | Context: {"post_id":31}
+[09:18:35 UTC] [SUCCESS] Successfully completed processing Gutenberg post | Context: {"post_id":31}
+[09:18:35 UTC] [INFO] Processing Gutenberg post | Context: {"post_id":29}
+[09:18:35 UTC] [INFO] Updating post content (first pass) | Context: {"post_id":29}
+[09:18:35 UTC] [INFO] Starting link extraction and replacement process
+[09:18:35 UTC] [INFO] Links discovered in content | Context: {"total_links":34}
+[09:18:35 UTC] [INFO] Downloading images through ST_Image_Importer | Context: {"image_count":20}
+[09:18:35 UTC] [INFO] Starting image import for URL: https://preschool.ziptemplates.top/wp-content/uploads/2023/08/home-hero.jpg
+[09:18:35 UTC] [INFO] Image already exists in media library (ID: 50), skipping download
+[09:18:35 UTC] [INFO] Starting image import for URL: https://preschool.ziptemplates.top/wp-content/uploads/2023/08/about-us.jpg
+[09:18:35 UTC] [INFO] Image already exists in media library (ID: 43), skipping download
+[09:18:35 UTC] [INFO] Starting image import for URL: https://preschool.ziptemplates.top/wp-content/uploads/2023/08/our-programs-01.jpg
+[09:18:35 UTC] [INFO] Image already exists in media library (ID: 52), skipping download
+[09:18:35 UTC] [INFO] Starting image import for URL: https://preschool.ziptemplates.top/wp-content/uploads/2023/08/our-programs-02.jpg
+[09:18:35 UTC] [INFO] Image already exists in media library (ID: 53), skipping download
+[09:18:35 UTC] [INFO] Starting image import for URL: https://preschool.ziptemplates.top/wp-content/uploads/2023/08/our-programs-03.jpg
+[09:18:35 UTC] [INFO] Image already exists in media library (ID: 54), skipping download
+[09:18:35 UTC] [INFO] Starting image import for URL: https://preschool.ziptemplates.top/wp-content/uploads/2023/08/why-choose-us-01.jpg
+[09:18:35 UTC] [INFO] Image already exists in media library (ID: 70), skipping download
+[09:18:35 UTC] [INFO] Starting image import for URL: https://preschool.ziptemplates.top/wp-content/uploads/2023/08/why-choose-us-01-217x300.jpg
+[09:18:35 UTC] [INFO] Image already exists in media library (ID: 70), skipping download
+[09:18:35 UTC] [INFO] Starting image import for URL: https://preschool.ziptemplates.top/wp-content/uploads/2023/08/why-choose-us-02.jpg
+[09:18:35 UTC] [INFO] Image already exists in media library (ID: 71), skipping download
+[09:18:35 UTC] [INFO] Starting image import for URL: https://preschool.ziptemplates.top/wp-content/uploads/2023/08/gallery-01.jpg
+[09:18:35 UTC] [INFO] Image already exists in media library (ID: 45), skipping download
+[09:18:35 UTC] [INFO] Starting image import for URL: https://preschool.ziptemplates.top/wp-content/uploads/2023/08/gallery-02.jpg
+[09:18:35 UTC] [INFO] Image already exists in media library (ID: 46), skipping download
+[09:18:35 UTC] [INFO] Starting image import for URL: https://preschool.ziptemplates.top/wp-content/uploads/2023/08/gallery-03.jpg
+[09:18:35 UTC] [INFO] Image already exists in media library (ID: 47), skipping download
+[09:18:35 UTC] [INFO] Starting image import for URL: https://preschool.ziptemplates.top/wp-content/uploads/2024/04/gallery-04.jpg
+[09:18:35 UTC] [INFO] Image already exists in media library (ID: 786), skipping download
+[09:18:35 UTC] [INFO] Starting image import for URL: https://preschool.ziptemplates.top/wp-content/uploads/2024/04/gallery-05.jpg
+[09:18:35 UTC] [INFO] Image already exists in media library (ID: 787), skipping download
+[09:18:35 UTC] [INFO] Starting image import for URL: https://preschool.ziptemplates.top/wp-content/uploads/2024/03/testimonial-skip-01.jpg
+[09:18:35 UTC] [INFO] Image already exists in media library (ID: 711), skipping download
+[09:18:35 UTC] [INFO] Starting image import for URL: https://preschool.ziptemplates.top/wp-includes/images/media/default.png
+[09:18:35 UTC] [INFO] Image already exists in media library (ID: 831), skipping download
+[09:18:35 UTC] [INFO] Starting image import for URL: https://preschool.ziptemplates.top/wp-content/uploads/2024/03/testimonial-skip-04.jpg
+[09:18:35 UTC] [INFO] Image already exists in media library (ID: 709), skipping download
+[09:18:35 UTC] [INFO] Starting image import for URL: https://preschool.ziptemplates.top/wp-content/uploads/2024/03/testimonial-skip-02.jpg
+[09:18:35 UTC] [INFO] Image already exists in media library (ID: 710), skipping download
+[09:18:35 UTC] [INFO] Starting image import for URL: https://preschool.ziptemplates.top/wp-content/uploads/2023/08/testimonial-skip-05.jpg
+[09:18:35 UTC] [INFO] Image already exists in media library (ID: 68), skipping download
+[09:18:35 UTC] [INFO] Starting image import for URL: https://preschool.ziptemplates.top/wp-content/uploads/2023/08/testimonial-skip-03.jpg
+[09:18:35 UTC] [INFO] Image already exists in media library (ID: 66), skipping download
+[09:18:35 UTC] [INFO] Starting image import for URL: https://preschool.ziptemplates.top/wp-content/uploads/2023/08/testimonial-skip-06.jpg
+[09:18:35 UTC] [INFO] Image already exists in media library (ID: 69), skipping download
+[09:18:35 UTC] [INFO] Starting link replacements in content | Context: {"replacements_count":34}
+[09:18:35 UTC] [SUCCESS] Link replacement process completed | Context: {"total_replacements":34}
+[09:18:35 UTC] [INFO] Updating post content (second pass with link replacements) | Context: {"post_id":29}
+[09:18:36 UTC] [SUCCESS] Successfully completed processing Gutenberg post | Context: {"post_id":29}
+[09:18:36 UTC] [SUCCESS] Gutenberg batch processing completed successfully | Context: {"posts_processed":12}
+[09:18:36 UTC] [SUCCESS] Gutenberg batch completed.
+[09:18:37 UTC] [INFO] ---
+
+[09:18:37 UTC] [INFO] Starting image replacement batch processing - step: pages
+[09:18:37 UTC] [INFO] Starting page image replacement
+[09:18:37 UTC] [INFO] ST_Replace_Blocks_Images instance created
+[09:18:37 UTC] [INFO] Processing pages | Context: {"pages_count":5,"plugin_type":"blocks"}
+[09:18:37 UTC] [INFO] Starting parse_replace_images for post ID: 29
+[09:18:37 UTC] [INFO] Parsed 13 blocks from post content
+[09:18:37 UTC] [INFO] Processing 13 blocks for updates
+[09:18:37 UTC] [INFO] Processing block #0 - Block type: uagb/container
+[09:18:37 UTC] [INFO] Checking block for image replacement: uagb/container
+[09:18:37 UTC] [INFO] Starting parse_spectra_container
+[09:18:37 UTC] [INFO] No background image or skipable image, returning block unchanged
+[09:18:37 UTC] [INFO] Processing 2 inner blocks for block #0
+[09:18:37 UTC] [INFO] Processing 2 blocks for updates
+[09:18:37 UTC] [INFO] Processing block #0 - Block type: uagb/container
+[09:18:37 UTC] [INFO] Checking block for image replacement: uagb/container
+[09:18:37 UTC] [INFO] Starting parse_spectra_container
+[09:18:37 UTC] [INFO] No background image or skipable image, returning block unchanged
+[09:18:37 UTC] [INFO] Processing 4 inner blocks for block #0
+[09:18:37 UTC] [INFO] Processing 4 blocks for updates
+[09:18:37 UTC] [INFO] Processing block #0 - Block type: uagb/advanced-heading
+[09:18:37 UTC] [INFO] Checking block for image replacement: uagb/advanced-heading
+[09:18:37 UTC] [INFO] Processing block #1 - Block type: uagb/advanced-heading
+[09:18:37 UTC] [INFO] Checking block for image replacement: uagb/advanced-heading
+[09:18:37 UTC] [INFO] Processing block #2 - Block type: uagb/buttons
+[09:18:37 UTC] [INFO] Checking block for image replacement: uagb/buttons
+[09:18:37 UTC] [INFO] Processing 1 inner blocks for block #2
+[09:18:37 UTC] [INFO] Processing 1 blocks for updates
+[09:18:37 UTC] [INFO] Processing block #0 - Block type: uagb/buttons-child
+[09:18:37 UTC] [INFO] Checking block for image replacement: uagb/buttons-child
+[09:18:37 UTC] [INFO] Completed get_updated_blocks - Processed: 1, Skipped: 0
+[09:18:37 UTC] [INFO] Processing block #3 - Block type: uagb/container
+[09:18:37 UTC] [INFO] Checking block for image replacement: uagb/container
+[09:18:37 UTC] [INFO] Starting parse_spectra_container
+[09:18:37 UTC] [INFO] No background image or skipable image, returning block unchanged
+[09:18:37 UTC] [INFO] Processing 3 inner blocks for block #3
+[09:18:37 UTC] [INFO] Processing 3 blocks for updates
+[09:18:37 UTC] [INFO] Processing block #0 - Block type: uagb/container
+[09:18:37 UTC] [INFO] Checking block for image replacement: uagb/container
+[09:18:37 UTC] [INFO] Starting parse_spectra_container
+[09:18:37 UTC] [INFO] No background image or skipable image, returning block unchanged
+[09:18:37 UTC] [INFO] Processing 1 inner blocks for block #0
+[09:18:37 UTC] [INFO] Processing 1 blocks for updates
+[09:18:37 UTC] [INFO] Processing block #0 - Block type: uagb/counter
+[09:18:37 UTC] [INFO] Checking block for image replacement: uagb/counter
+[09:18:37 UTC] [INFO] Completed get_updated_blocks - Processed: 1, Skipped: 0
+[09:18:37 UTC] [INFO] Processing block #1 - Block type: uagb/container
+[09:18:37 UTC] [INFO] Checking block for image replacement: uagb/container
+[09:18:37 UTC] [INFO] Starting parse_spectra_container
+[09:18:37 UTC] [INFO] No background image or skipable image, returning block unchanged
+[09:18:37 UTC] [INFO] Processing 1 inner blocks for block #1
+[09:18:37 UTC] [INFO] Processing 1 blocks for updates
+[09:18:37 UTC] [INFO] Processing block #0 - Block type: uagb/counter
+[09:18:37 UTC] [INFO] Checking block for image replacement: uagb/counter
+[09:18:37 UTC] [INFO] Completed get_updated_blocks - Processed: 1, Skipped: 0
+[09:18:37 UTC] [INFO] Processing block #2 - Block type: uagb/container
+[09:18:37 UTC] [INFO] Checking block for image replacement: uagb/container
+[09:18:37 UTC] [INFO] Starting parse_spectra_container
+[09:18:37 UTC] [INFO] No background image or skipable image, returning block unchanged
+[09:18:37 UTC] [INFO] Processing 1 inner blocks for block #2
+[09:18:37 UTC] [INFO] Processing 1 blocks for updates
+[09:18:37 UTC] [INFO] Processing block #0 - Block type: uagb/counter
+[09:18:37 UTC] [INFO] Checking block for image replacement: uagb/counter
+[09:18:37 UTC] [INFO] Completed get_updated_blocks - Processed: 1, Skipped: 0
+[09:18:37 UTC] [INFO] Completed get_updated_blocks - Processed: 3, Skipped: 0
+[09:18:37 UTC] [INFO] Completed get_updated_blocks - Processed: 4, Skipped: 0
+[09:18:37 UTC] [INFO] Processing block #1 - Block type: uagb/container
+[09:18:37 UTC] [INFO] Checking block for image replacement: uagb/container
+[09:18:37 UTC] [INFO] Starting parse_spectra_container
+[09:18:37 UTC] [INFO] No background image or skipable image, returning block unchanged
+[09:18:37 UTC] [INFO] Processing 1 inner blocks for block #1
+[09:18:37 UTC] [INFO] Processing 1 blocks for updates
+[09:18:37 UTC] [INFO] Processing block #0 - Block type: uagb/image
+[09:18:37 UTC] [INFO] Checking block for image replacement: uagb/image
+[09:18:37 UTC] [INFO] Starting parse_spectra_image
+[09:18:37 UTC] [INFO] Found image to replace: http://zeit-services.test/wp-content/uploads/2023/08/home-hero.jpg
+[09:18:37 UTC] [INFO] Retrieved replacement image from index: 0
+[09:18:37 UTC] [INFO] Successfully downloaded image with ID: 10
+[09:18:37 UTC] [INFO] Replaced image URL in innerHTML
+[09:18:37 UTC] [INFO] Updated alt text to: Interior view of a room under renovation with paint, tiles, and tools.
+[09:18:37 UTC] [INFO] Updated tablet image URL: http://zeit-services.test/wp-content/uploads/2026/07/pexels-photo-36035072.jpeg
+[09:18:37 UTC] [INFO] Updated mobile image URL: http://zeit-services.test/wp-content/uploads/2026/07/pexels-photo-36035072.jpeg
+[09:18:37 UTC] [INFO] Updated image ID from 50 to 10
+[09:18:37 UTC] [INFO] Replaced image URL in 1 inner content items
+[09:18:37 UTC] [INFO] Successfully replaced Spectra image - Old: http://zeit-services.test/wp-content/uploads/2023/08/home-hero.jpg, New: http://zeit-services.test/wp-content/uploads/2026/07/pexels-photo-36035072.jpeg
+[09:18:37 UTC] [INFO] Completed get_updated_blocks - Processed: 1, Skipped: 0
+[09:18:37 UTC] [INFO] Completed get_updated_blocks - Processed: 2, Skipped: 0
+[09:18:37 UTC] [INFO] Processing block #1 - Block type: 
+[09:18:37 UTC] [INFO] Checking block for image replacement: 
+[09:18:37 UTC] [INFO] Processing block #2 - Block type: uagb/container
+[09:18:37 UTC] [INFO] Checking block for image replacement: uagb/container
+[09:18:37 UTC] [INFO] Starting parse_spectra_container
+[09:18:37 UTC] [INFO] No background image or skipable image, returning block unchanged
+[09:18:37 UTC] [INFO] Processing 2 inner blocks for block #2
+[09:18:37 UTC] [INFO] Processing 2 blocks for updates
+[09:18:37 UTC] [INFO] Processing block #0 - Block type: uagb/container
+[09:18:37 UTC] [INFO] Checking block for image replacement: uagb/container
+[09:18:37 UTC] [INFO] Starting parse_spectra_container
+[09:18:37 UTC] [INFO] No background image or skipable image, returning block unchanged
+[09:18:37 UTC] [INFO] Processing 1 inner blocks for block #0
+[09:18:37 UTC] [INFO] Processing 1 blocks for updates
+[09:18:37 UTC] [INFO] Processing block #0 - Block type: uagb/image
+[09:18:37 UTC] [INFO] Checking block for image replacement: uagb/image
+[09:18:37 UTC] [INFO] Starting parse_spectra_image
+[09:18:37 UTC] [INFO] Found image to replace: http://zeit-services.test/wp-content/uploads/2023/08/about-us.jpg
+[09:18:37 UTC] [INFO] Retrieved replacement image from index: 1
+[09:18:37 UTC] [INFO] Successfully downloaded image with ID: 11
+[09:18:37 UTC] [INFO] Replaced image URL in innerHTML
+[09:18:37 UTC] [INFO] Updated alt text to: Flat lay of home improvement tools, paint samples, and blueprints for a DIY project.
+[09:18:37 UTC] [INFO] Updated tablet image URL: http://zeit-services.test/wp-content/uploads/2026/07/pexels-photo-6474497.jpeg
+[09:18:37 UTC] [INFO] Updated mobile image URL: http://zeit-services.test/wp-content/uploads/2026/07/pexels-photo-6474497.jpeg
+[09:18:37 UTC] [INFO] Updated image ID from 43 to 11
+[09:18:37 UTC] [INFO] Replaced image URL in 1 inner content items
+[09:18:37 UTC] [INFO] Successfully replaced Spectra image - Old: http://zeit-services.test/wp-content/uploads/2023/08/about-us.jpg, New: http://zeit-services.test/wp-content/uploads/2026/07/pexels-photo-6474497.jpeg
+[09:18:37 UTC] [INFO] Completed get_updated_blocks - Processed: 1, Skipped: 0
+[09:18:37 UTC] [INFO] Processing block #1 - Block type: uagb/container
+[09:18:37 UTC] [INFO] Checking block for image replacement: uagb/container
+[09:18:37 UTC] [INFO] Starting parse_spectra_container
+[09:18:37 UTC] [INFO] No background image or skipable image, returning block unchanged
+[09:18:37 UTC] [INFO] Processing 3 inner blocks for block #1
+[09:18:37 UTC] [INFO] Processing 3 blocks for updates
+[09:18:37 UTC] [INFO] Processing block #0 - Block type: uagb/advanced-heading
+[09:18:37 UTC] [INFO] Checking block for image replacement: uagb/advanced-heading
+[09:18:37 UTC] [INFO] Processing block #1 - Block type: uagb/advanced-heading
+[09:18:37 UTC] [INFO] Checking block for image replacement: uagb/advanced-heading
+[09:18:37 UTC] [INFO] Processing block #2 - Block type: uagb/buttons
+[09:18:37 UTC] [INFO] Checking block for image replacement: uagb/buttons
+[09:18:37 UTC] [INFO] Processing 1 inner blocks for block #2
+[09:18:37 UTC] [INFO] Processing 1 blocks for updates
+[09:18:37 UTC] [INFO] Processing block #0 - Block type: uagb/buttons-child
+[09:18:37 UTC] [INFO] Checking block for image replacement: uagb/buttons-child
+[09:18:37 UTC] [INFO] Completed get_updated_blocks - Processed: 1, Skipped: 0
+[09:18:37 UTC] [INFO] Completed get_updated_blocks - Processed: 3, Skipped: 0
+[09:18:37 UTC] [INFO] Completed get_updated_blocks - Processed: 2, Skipped: 0
+[09:18:37 UTC] [INFO] Processing block #3 - Block type: 
+[09:18:37 UTC] [INFO] Checking block for image replacement: 
+[09:18:37 UTC] [INFO] Processing block #4 - Block type: uagb/container
+[09:18:37 UTC] [INFO] Checking block for image replacement: uagb/container
+[09:18:37 UTC] [INFO] Starting parse_spectra_container
+[09:18:37 UTC] [INFO] No background image or skipable image, returning block unchanged
+[09:18:37 UTC] [INFO] Processing 3 inner blocks for block #4
+[09:18:37 UTC] [INFO] Processing 3 blocks for updates
+[09:18:37 UTC] [INFO] Processing block #0 - Block type: uagb/advanced-heading
+[09:18:37 UTC] [INFO] Checking block for image replacement: uagb/advanced-heading
+[09:18:37 UTC] [INFO] Processing block #1 - Block type: uagb/advanced-heading
+[09:18:37 UTC] [INFO] Checking block for image replacement: uagb/advanced-heading
+[09:18:37 UTC] [INFO] Processing block #2 - Block type: uagb/container
+[09:18:37 UTC] [INFO] Checking block for image replacement: uagb/container
+[09:18:37 UTC] [INFO] Starting parse_spectra_container
+[09:18:37 UTC] [INFO] No background image or skipable image, returning block unchanged
+[09:18:37 UTC] [INFO] Processing 3 inner blocks for block #2
+[09:18:37 UTC] [INFO] Processing 3 blocks for updates
+[09:18:37 UTC] [INFO] Processing block #0 - Block type: uagb/container
+[09:18:37 UTC] [INFO] Checking block for image replacement: uagb/container
+[09:18:37 UTC] [INFO] Starting parse_spectra_container
+[09:18:37 UTC] [INFO] No background image or skipable image, returning block unchanged
+[09:18:37 UTC] [INFO] Processing 2 inner blocks for block #0
+[09:18:37 UTC] [INFO] Processing 2 blocks for updates
+[09:18:37 UTC] [INFO] Processing block #0 - Block type: uagb/image
+[09:18:37 UTC] [INFO] Checking block for image replacement: uagb/image
+[09:18:37 UTC] [INFO] Starting parse_spectra_image
+[09:18:37 UTC] [INFO] Found image to replace: http://zeit-services.test/wp-content/uploads/2023/08/our-programs-01.jpg
+[09:18:37 UTC] [INFO] Retrieved replacement image from index: 2
+[09:18:37 UTC] [INFO] Successfully downloaded image with ID: 12
+[09:18:37 UTC] [INFO] Replaced image URL in innerHTML
+[09:18:37 UTC] [INFO] Updated alt text to: A skilled craftsman working on a wooden piece using a power drill, showcasing precision and expertise.
+[09:18:37 UTC] [INFO] Updated tablet image URL: http://zeit-services.test/wp-content/uploads/2026/07/pexels-photo-7285926.jpeg
+[09:18:37 UTC] [INFO] Updated mobile image URL: http://zeit-services.test/wp-content/uploads/2026/07/pexels-photo-7285926.jpeg
+[09:18:37 UTC] [INFO] Updated image ID from 52 to 12
+[09:18:37 UTC] [INFO] Replaced image URL in 1 inner content items
+[09:18:37 UTC] [INFO] Successfully replaced Spectra image - Old: http://zeit-services.test/wp-content/uploads/2023/08/our-programs-01.jpg, New: http://zeit-services.test/wp-content/uploads/2026/07/pexels-photo-7285926.jpeg
+[09:18:37 UTC] [INFO] Processing block #1 - Block type: uagb/info-box
+[09:18:37 UTC] [INFO] Checking block for image replacement: uagb/info-box
+[09:18:37 UTC] [INFO] Starting parse_spectra_infobox
+[09:18:37 UTC] [INFO] No icon image or skipable image, returning block unchanged
+[09:18:37 UTC] [INFO] Completed get_updated_blocks - Processed: 2, Skipped: 0
+[09:18:37 UTC] [INFO] Processing block #1 - Block type: uagb/container
+[09:18:37 UTC] [INFO] Checking block for image replacement: uagb/container
+[09:18:37 UTC] [INFO] Starting parse_spectra_container
+[09:18:37 UTC] [INFO] No background image or skipable image, returning block unchanged
+[09:18:37 UTC] [INFO] Processing 2 inner blocks for block #1
+[09:18:37 UTC] [INFO] Processing 2 blocks for updates
+[09:18:37 UTC] [INFO] Processing block #0 - Block type: uagb/image
+[09:18:37 UTC] [INFO] Checking block for image replacement: uagb/image
+[09:18:37 UTC] [INFO] Starting parse_spectra_image
+[09:18:37 UTC] [INFO] Found image to replace: http://zeit-services.test/wp-content/uploads/2023/08/our-programs-02.jpg
+[09:18:37 UTC] [INFO] Retrieved replacement image from index: 3
+[09:18:37 UTC] [INFO] Successfully downloaded image with ID: 13
+[09:18:37 UTC] [INFO] Replaced image URL in innerHTML
+[09:18:37 UTC] [INFO] Updated alt text to: Window frame on floor near wooden doors and heating system in light apartment during renovation process
+[09:18:37 UTC] [INFO] Updated tablet image URL: http://zeit-services.test/wp-content/uploads/2026/07/pexels-photo-5691549.jpeg
+[09:18:37 UTC] [INFO] Updated mobile image URL: http://zeit-services.test/wp-content/uploads/2026/07/pexels-photo-5691549.jpeg
+[09:18:37 UTC] [INFO] Updated image ID from 53 to 13
+[09:18:37 UTC] [INFO] Replaced image URL in 1 inner content items
+[09:18:37 UTC] [INFO] Successfully replaced Spectra image - Old: http://zeit-services.test/wp-content/uploads/2023/08/our-programs-02.jpg, New: http://zeit-services.test/wp-content/uploads/2026/07/pexels-photo-5691549.jpeg
+[09:18:37 UTC] [INFO] Processing block #1 - Block type: uagb/info-box
+[09:18:37 UTC] [INFO] Checking block for image replacement: uagb/info-box
+[09:18:37 UTC] [INFO] Starting parse_spectra_infobox
+[09:18:37 UTC] [INFO] No icon image or skipable image, returning block unchanged
+[09:18:37 UTC] [INFO] Completed get_updated_blocks - Processed: 2, Skipped: 0
+[09:18:37 UTC] [INFO] Processing block #2 - Block type: uagb/container
+[09:18:37 UTC] [INFO] Checking block for image replacement: uagb/container
+[09:18:37 UTC] [INFO] Starting parse_spectra_container
+[09:18:37 UTC] [INFO] No background image or skipable image, returning block unchanged
+[09:18:37 UTC] [INFO] Processing 2 inner blocks for block #2
+[09:18:37 UTC] [INFO] Processing 2 blocks for updates
+[09:18:37 UTC] [INFO] Processing block #0 - Block type: uagb/image
+[09:18:37 UTC] [INFO] Checking block for image replacement: uagb/image
+[09:18:37 UTC] [INFO] Starting parse_spectra_image
+[09:18:37 UTC] [INFO] Found image to replace: http://zeit-services.test/wp-content/uploads/2023/08/our-programs-03.jpg
+[09:18:37 UTC] [INFO] Retrieved replacement image from index: 4
+[09:18:37 UTC] [INFO] Successfully downloaded image with ID: 14
+[09:18:37 UTC] [INFO] Replaced image URL in innerHTML
+[09:18:37 UTC] [INFO] Updated alt text to: A happy construction worker using a drill indoors during renovation.
+[09:18:37 UTC] [INFO] Updated tablet image URL: http://zeit-services.test/wp-content/uploads/2026/07/pexels-photo-5493672.jpeg
+[09:18:37 UTC] [INFO] Updated mobile image URL: http://zeit-services.test/wp-content/uploads/2026/07/pexels-photo-5493672.jpeg
+[09:18:37 UTC] [INFO] Updated image ID from 54 to 14
+[09:18:37 UTC] [INFO] Replaced image URL in 1 inner content items
+[09:18:37 UTC] [INFO] Successfully replaced Spectra image - Old: http://zeit-services.test/wp-content/uploads/2023/08/our-programs-03.jpg, New: http://zeit-services.test/wp-content/uploads/2026/07/pexels-photo-5493672.jpeg
+[09:18:37 UTC] [INFO] Processing block #1 - Block type: uagb/info-box
+[09:18:37 UTC] [INFO] Checking block for image replacement: uagb/info-box
+[09:18:37 UTC] [INFO] Starting parse_spectra_infobox
+[09:18:37 UTC] [INFO] No icon image or skipable image, returning block unchanged
+[09:18:37 UTC] [INFO] Completed get_updated_blocks - Processed: 2, Skipped: 0
+[09:18:37 UTC] [INFO] Completed get_updated_blocks - Processed: 3, Skipped: 0
+[09:18:37 UTC] [INFO] Completed get_updated_blocks - Processed: 3, Skipped: 0
+[09:18:37 UTC] [INFO] Processing block #5 - Block type: 
+[09:18:37 UTC] [INFO] Checking block for image replacement: 
+[09:18:37 UTC] [INFO] Processing block #6 - Block type: uagb/container
+[09:18:37 UTC] [INFO] Checking block for image replacement: uagb/container
+[09:18:37 UTC] [INFO] Starting parse_spectra_container
+[09:18:37 UTC] [INFO] No background image or skipable image, returning block unchanged
+[09:18:37 UTC] [INFO] Processing 5 inner blocks for block #6
+[09:18:37 UTC] [INFO] Processing 5 blocks for updates
+[09:18:38 UTC] [INFO] Processing block #0 - Block type: uagb/advanced-heading
+[09:18:38 UTC] [INFO] Checking block for image replacement: uagb/advanced-heading
+[09:18:38 UTC] [INFO] Processing block #1 - Block type: uagb/advanced-heading
+[09:18:38 UTC] [INFO] Checking block for image replacement: uagb/advanced-heading
+[09:18:38 UTC] [INFO] Processing block #2 - Block type: uagb/container
+[09:18:38 UTC] [INFO] Checking block for image replacement: uagb/container
+[09:18:38 UTC] [INFO] Starting parse_spectra_container
+[09:18:38 UTC] [INFO] No background image or skipable image, returning block unchanged
+[09:18:38 UTC] [INFO] Processing 2 inner blocks for block #2
+[09:18:38 UTC] [INFO] Processing 2 blocks for updates
+[09:18:38 UTC] [INFO] Processing block #0 - Block type: uagb/image
+[09:18:38 UTC] [INFO] Checking block for image replacement: uagb/image
+[09:18:38 UTC] [INFO] Starting parse_spectra_image
+[09:18:38 UTC] [INFO] Found image to replace: http://zeit-services.test/wp-content/uploads/2023/08/why-choose-us-01.jpg
+[09:18:38 UTC] [INFO] Retrieved replacement image from index: 5
+[09:18:38 UTC] [INFO] Successfully downloaded image with ID: 15
+[09:18:38 UTC] [INFO] Replaced image URL in innerHTML
+[09:18:38 UTC] [INFO] Updated alt text to: Group of cleaners in red uniforms mopping and wiping glass in a modern dining room.
+[09:18:38 UTC] [INFO] Updated tablet image URL: http://zeit-services.test/wp-content/uploads/2026/07/pexels-photo-6197108.jpeg
+[09:18:38 UTC] [INFO] Updated mobile image URL: http://zeit-services.test/wp-content/uploads/2026/07/pexels-photo-6197108.jpeg
+[09:18:38 UTC] [INFO] Updated image ID from 70 to 15
+[09:18:38 UTC] [INFO] Replaced image URL in 1 inner content items
+[09:18:38 UTC] [INFO] Successfully replaced Spectra image - Old: http://zeit-services.test/wp-content/uploads/2023/08/why-choose-us-01.jpg, New: http://zeit-services.test/wp-content/uploads/2026/07/pexels-photo-6197108.jpeg
+[09:18:38 UTC] [INFO] Processing block #1 - Block type: uagb/image
+[09:18:38 UTC] [INFO] Checking block for image replacement: uagb/image
+[09:18:38 UTC] [INFO] Starting parse_spectra_image
+[09:18:38 UTC] [INFO] Found image to replace: http://zeit-services.test/wp-content/uploads/2023/08/why-choose-us-02.jpg
+[09:18:38 UTC] [INFO] Retrieved replacement image from index: 6
+[09:18:38 UTC] [INFO] Successfully downloaded image with ID: 16
+[09:18:38 UTC] [INFO] Replaced image URL in innerHTML
+[09:18:38 UTC] [INFO] Updated alt text to: Adult woman wiping indoor window using a blue cloth, back view, emphasizing cleanliness.
+[09:18:38 UTC] [INFO] Updated tablet image URL: http://zeit-services.test/wp-content/uploads/2026/07/pexels-photo-9462096.jpeg
+[09:18:38 UTC] [INFO] Updated mobile image URL: http://zeit-services.test/wp-content/uploads/2026/07/pexels-photo-9462096.jpeg
+[09:18:38 UTC] [INFO] Updated image ID from 71 to 16
+[09:18:38 UTC] [INFO] Replaced image URL in 1 inner content items
+[09:18:38 UTC] [INFO] Successfully replaced Spectra image - Old: http://zeit-services.test/wp-content/uploads/2023/08/why-choose-us-02.jpg, New: http://zeit-services.test/wp-content/uploads/2026/07/pexels-photo-9462096.jpeg
+[09:18:38 UTC] [INFO] Completed get_updated_blocks - Processed: 2, Skipped: 0
+[09:18:38 UTC] [INFO] Processing block #3 - Block type: uagb/container
+[09:18:38 UTC] [INFO] Checking block for image replacement: uagb/container
+[09:18:38 UTC] [INFO] Starting parse_spectra_container
+[09:18:38 UTC] [INFO] No background image or skipable image, returning block unchanged
+[09:18:38 UTC] [INFO] Processing 3 inner blocks for block #3
+[09:18:38 UTC] [INFO] Processing 3 blocks for updates
+[09:18:38 UTC] [INFO] Processing block #0 - Block type: uagb/container
+[09:18:38 UTC] [INFO] Checking block for image replacement: uagb/container
+[09:18:38 UTC] [INFO] Starting parse_spectra_container
+[09:18:38 UTC] [INFO] No background image or skipable image, returning block unchanged
+[09:18:38 UTC] [INFO] Processing 2 inner blocks for block #0
+[09:18:38 UTC] [INFO] Processing 2 blocks for updates
+[09:18:38 UTC] [INFO] Processing block #0 - Block type: uagb/advanced-heading
+[09:18:38 UTC] [INFO] Checking block for image replacement: uagb/advanced-heading
+[09:18:38 UTC] [INFO] Processing block #1 - Block type: uagb/advanced-heading
+[09:18:38 UTC] [INFO] Checking block for image replacement: uagb/advanced-heading
+[09:18:38 UTC] [INFO] Completed get_updated_blocks - Processed: 2, Skipped: 0
+[09:18:38 UTC] [INFO] Processing block #1 - Block type: uagb/container
+[09:18:38 UTC] [INFO] Checking block for image replacement: uagb/container
+[09:18:38 UTC] [INFO] Starting parse_spectra_container
+[09:18:38 UTC] [INFO] No background image or skipable image, returning block unchanged
+[09:18:38 UTC] [INFO] Processing 2 inner blocks for block #1
+[09:18:38 UTC] [INFO] Processing 2 blocks for updates
+[09:18:38 UTC] [INFO] Processing block #0 - Block type: uagb/advanced-heading
+[09:18:38 UTC] [INFO] Checking block for image replacement: uagb/advanced-heading
+[09:18:38 UTC] [INFO] Processing block #1 - Block type: uagb/advanced-heading
+[09:18:38 UTC] [INFO] Checking block for image replacement: uagb/advanced-heading
+[09:18:38 UTC] [INFO] Completed get_updated_blocks - Processed: 2, Skipped: 0
+[09:18:38 UTC] [INFO] Processing block #2 - Block type: uagb/container
+[09:18:38 UTC] [INFO] Checking block for image replacement: uagb/container
+[09:18:38 UTC] [INFO] Starting parse_spectra_container
+[09:18:38 UTC] [INFO] No background image or skipable image, returning block unchanged
+[09:18:38 UTC] [INFO] Processing 2 inner blocks for block #2
+[09:18:38 UTC] [INFO] Processing 2 blocks for updates
+[09:18:38 UTC] [INFO] Processing block #0 - Block type: uagb/advanced-heading
+[09:18:38 UTC] [INFO] Checking block for image replacement: uagb/advanced-heading
+[09:18:38 UTC] [INFO] Processing block #1 - Block type: uagb/advanced-heading
+[09:18:38 UTC] [INFO] Checking block for image replacement: uagb/advanced-heading
+[09:18:38 UTC] [INFO] Completed get_updated_blocks - Processed: 2, Skipped: 0
+[09:18:38 UTC] [INFO] Completed get_updated_blocks - Processed: 3, Skipped: 0
+[09:18:38 UTC] [INFO] Processing block #4 - Block type: uagb/container
+[09:18:38 UTC] [INFO] Checking block for image replacement: uagb/container
+[09:18:38 UTC] [INFO] Starting parse_spectra_container
+[09:18:38 UTC] [INFO] No background image or skipable image, returning block unchanged
+[09:18:38 UTC] [INFO] Processing 3 inner blocks for block #4
+[09:18:38 UTC] [INFO] Processing 3 blocks for updates
+[09:18:38 UTC] [INFO] Processing block #0 - Block type: uagb/container
+[09:18:38 UTC] [INFO] Checking block for image replacement: uagb/container
+[09:18:38 UTC] [INFO] Starting parse_spectra_container
+[09:18:38 UTC] [INFO] No background image or skipable image, returning block unchanged
+[09:18:38 UTC] [INFO] Processing 2 inner blocks for block #0
+[09:18:38 UTC] [INFO] Processing 2 blocks for updates
+[09:18:38 UTC] [INFO] Processing block #0 - Block type: uagb/advanced-heading
+[09:18:38 UTC] [INFO] Checking block for image replacement: uagb/advanced-heading
+[09:18:38 UTC] [INFO] Processing block #1 - Block type: uagb/advanced-heading
+[09:18:38 UTC] [INFO] Checking block for image replacement: uagb/advanced-heading
+[09:18:38 UTC] [INFO] Completed get_updated_blocks - Processed: 2, Skipped: 0
+[09:18:38 UTC] [INFO] Processing block #1 - Block type: uagb/container
+[09:18:38 UTC] [INFO] Checking block for image replacement: uagb/container
+[09:18:38 UTC] [INFO] Starting parse_spectra_container
+[09:18:38 UTC] [INFO] No background image or skipable image, returning block unchanged
+[09:18:38 UTC] [INFO] Processing 2 inner blocks for block #1
+[09:18:38 UTC] [INFO] Processing 2 blocks for updates
+[09:18:38 UTC] [INFO] Processing block #0 - Block type: uagb/advanced-heading
+[09:18:38 UTC] [INFO] Checking block for image replacement: uagb/advanced-heading
+[09:18:38 UTC] [INFO] Processing block #1 - Block type: uagb/advanced-heading
+[09:18:38 UTC] [INFO] Checking block for image replacement: uagb/advanced-heading
+[09:18:38 UTC] [INFO] Completed get_updated_blocks - Processed: 2, Skipped: 0
+[09:18:38 UTC] [INFO] Processing block #2 - Block type: uagb/container
+[09:18:38 UTC] [INFO] Checking block for image replacement: uagb/container
+[09:18:38 UTC] [INFO] Starting parse_spectra_container
+[09:18:38 UTC] [INFO] No background image or skipable image, returning block unchanged
+[09:18:38 UTC] [INFO] Processing 2 inner blocks for block #2
+[09:18:38 UTC] [INFO] Processing 2 blocks for updates
+[09:18:38 UTC] [INFO] Processing block #0 - Block type: uagb/advanced-heading
+[09:18:38 UTC] [INFO] Checking block for image replacement: uagb/advanced-heading
+[09:18:38 UTC] [INFO] Processing block #1 - Block type: uagb/advanced-heading
+[09:18:38 UTC] [INFO] Checking block for image replacement: uagb/advanced-heading
+[09:18:38 UTC] [INFO] Completed get_updated_blocks - Processed: 2, Skipped: 0
+[09:18:38 UTC] [INFO] Completed get_updated_blocks - Processed: 3, Skipped: 0
+[09:18:38 UTC] [INFO] Completed get_updated_blocks - Processed: 5, Skipped: 0
+[09:18:38 UTC] [INFO] Processing block #7 - Block type: 
+[09:18:38 UTC] [INFO] Checking block for image replacement: 
+[09:18:38 UTC] [INFO] Processing block #8 - Block type: uagb/container
+[09:18:38 UTC] [INFO] Checking block for image replacement: uagb/container
+[09:18:38 UTC] [INFO] Starting parse_spectra_container
+[09:18:38 UTC] [INFO] No background image or skipable image, returning block unchanged
+[09:18:38 UTC] [INFO] Processing 4 inner blocks for block #8
+[09:18:38 UTC] [INFO] Processing 4 blocks for updates
+[09:18:38 UTC] [INFO] Processing block #0 - Block type: uagb/advanced-heading
+[09:18:38 UTC] [INFO] Checking block for image replacement: uagb/advanced-heading
+[09:18:38 UTC] [INFO] Processing block #1 - Block type: uagb/advanced-heading
+[09:18:38 UTC] [INFO] Checking block for image replacement: uagb/advanced-heading
+[09:18:38 UTC] [INFO] Processing block #2 - Block type: uagb/container
+[09:18:38 UTC] [INFO] Checking block for image replacement: uagb/container
+[09:18:38 UTC] [INFO] Starting parse_spectra_container
+[09:18:38 UTC] [INFO] No background image or skipable image, returning block unchanged
+[09:18:38 UTC] [INFO] Processing 3 inner blocks for block #2
+[09:18:38 UTC] [INFO] Processing 3 blocks for updates
+[09:18:38 UTC] [INFO] Processing block #0 - Block type: uagb/image
+[09:18:38 UTC] [INFO] Checking block for image replacement: uagb/image
+[09:18:38 UTC] [INFO] Starting parse_spectra_image
+[09:18:38 UTC] [INFO] Found image to replace: http://zeit-services.test/wp-content/uploads/2023/08/gallery-01.jpg
+[09:18:38 UTC] [INFO] Retrieved replacement image from index: 7
+[09:18:38 UTC] [INFO] Successfully downloaded image with ID: 17
+[09:18:38 UTC] [INFO] Replaced image URL in innerHTML
+[09:18:38 UTC] [INFO] Updated alt text to: Two women cleaning a modern kitchen, wiping glass surfaces and mopping the floor.
+[09:18:38 UTC] [INFO] Updated tablet image URL: http://zeit-services.test/wp-content/uploads/2026/07/pexels-photo-6197121.jpeg
+[09:18:38 UTC] [INFO] Updated mobile image URL: http://zeit-services.test/wp-content/uploads/2026/07/pexels-photo-6197121.jpeg
+[09:18:38 UTC] [INFO] Updated image ID from 45 to 17
+[09:18:38 UTC] [INFO] Replaced image URL in 1 inner content items
+[09:18:38 UTC] [INFO] Successfully replaced Spectra image - Old: http://zeit-services.test/wp-content/uploads/2023/08/gallery-01.jpg, New: http://zeit-services.test/wp-content/uploads/2026/07/pexels-photo-6197121.jpeg
+[09:18:38 UTC] [INFO] Processing block #1 - Block type: uagb/image
+[09:18:38 UTC] [INFO] Checking block for image replacement: uagb/image
+[09:18:38 UTC] [INFO] Starting parse_spectra_image
+[09:18:38 UTC] [INFO] Found image to replace: http://zeit-services.test/wp-content/uploads/2023/08/gallery-02.jpg
+[09:18:38 UTC] [INFO] Retrieved replacement image from index: 8
+[09:18:38 UTC] [INFO] Successfully downloaded image with ID: 18
+[09:18:38 UTC] [INFO] Replaced image URL in innerHTML
+[09:18:38 UTC] [INFO] Updated alt text to: A woman in work clothes vacuuming indoors, emphasizing cleanliness and efficiency.
+[09:18:38 UTC] [INFO] Updated tablet image URL: http://zeit-services.test/wp-content/uploads/2026/07/pexels-photo-6195287.jpeg
+[09:18:38 UTC] [INFO] Updated mobile image URL: http://zeit-services.test/wp-content/uploads/2026/07/pexels-photo-6195287.jpeg
+[09:18:38 UTC] [INFO] Updated image ID from 46 to 18
+[09:18:38 UTC] [INFO] Replaced image URL in 1 inner content items
+[09:18:38 UTC] [INFO] Successfully replaced Spectra image - Old: http://zeit-services.test/wp-content/uploads/2023/08/gallery-02.jpg, New: http://zeit-services.test/wp-content/uploads/2026/07/pexels-photo-6195287.jpeg
+[09:18:38 UTC] [INFO] Processing block #2 - Block type: uagb/image
+[09:18:38 UTC] [INFO] Checking block for image replacement: uagb/image
+[09:18:38 UTC] [INFO] Starting parse_spectra_image
+[09:18:38 UTC] [INFO] Found image to replace: http://zeit-services.test/wp-content/uploads/2023/08/gallery-03.jpg
+[09:18:38 UTC] [INFO] Retrieved replacement image from index: 9
+[09:18:38 UTC] [INFO] Successfully downloaded image with ID: 19
+[09:18:38 UTC] [INFO] Replaced image URL in innerHTML
+[09:18:38 UTC] [INFO] Updated alt text to: A woman in red overalls vacuuming a modern living room for cleanliness and hygiene.
+[09:18:38 UTC] [INFO] Updated tablet image URL: http://zeit-services.test/wp-content/uploads/2026/07/pexels-photo-6195285.jpeg
+[09:18:38 UTC] [INFO] Updated mobile image URL: http://zeit-services.test/wp-content/uploads/2026/07/pexels-photo-6195285.jpeg
+[09:18:38 UTC] [INFO] Updated image ID from 47 to 19
+[09:18:38 UTC] [INFO] Replaced image URL in 1 inner content items
+[09:18:38 UTC] [INFO] Successfully replaced Spectra image - Old: http://zeit-services.test/wp-content/uploads/2023/08/gallery-03.jpg, New: http://zeit-services.test/wp-content/uploads/2026/07/pexels-photo-6195285.jpeg
+[09:18:38 UTC] [INFO] Completed get_updated_blocks - Processed: 3, Skipped: 0
+[09:18:38 UTC] [INFO] Processing block #3 - Block type: uagb/container
+[09:18:38 UTC] [INFO] Checking block for image replacement: uagb/container
+[09:18:38 UTC] [INFO] Starting parse_spectra_container
+[09:18:38 UTC] [INFO] No background image or skipable image, returning block unchanged
+[09:18:38 UTC] [INFO] Processing 2 inner blocks for block #3
+[09:18:38 UTC] [INFO] Processing 2 blocks for updates
+[09:18:38 UTC] [INFO] Processing block #0 - Block type: uagb/image
+[09:18:38 UTC] [INFO] Checking block for image replacement: uagb/image
+[09:18:38 UTC] [INFO] Starting parse_spectra_image
+[09:18:38 UTC] [INFO] Found image to replace: http://zeit-services.test/wp-content/uploads/2024/04/gallery-04.jpg
+[09:18:38 UTC] [INFO] Retrieved replacement image from index: 10
+[09:18:38 UTC] [INFO] Successfully downloaded image with ID: 20
+[09:18:38 UTC] [INFO] Replaced image URL in innerHTML
+[09:18:38 UTC] [INFO] Updated alt text to: A person in PPE cleaning a modern living room, emphasizing safety and hygiene.
+[09:18:38 UTC] [INFO] Updated tablet image URL: http://zeit-services.test/wp-content/uploads/2026/07/pexels-photo-4097995.jpeg
+[09:18:38 UTC] [INFO] Updated mobile image URL: http://zeit-services.test/wp-content/uploads/2026/07/pexels-photo-4097995.jpeg
+[09:18:38 UTC] [INFO] Updated image ID from 786 to 20
+[09:18:38 UTC] [INFO] Replaced image URL in 1 inner content items
+[09:18:38 UTC] [INFO] Successfully replaced Spectra image - Old: http://zeit-services.test/wp-content/uploads/2024/04/gallery-04.jpg, New: http://zeit-services.test/wp-content/uploads/2026/07/pexels-photo-4097995.jpeg
+[09:18:38 UTC] [INFO] Processing block #1 - Block type: uagb/image
+[09:18:38 UTC] [INFO] Checking block for image replacement: uagb/image
+[09:18:38 UTC] [INFO] Starting parse_spectra_image
+[09:18:38 UTC] [INFO] Found image to replace: http://zeit-services.test/wp-content/uploads/2024/04/gallery-05.jpg
+[09:18:38 UTC] [INFO] Retrieved replacement image from index: 0
+[09:18:38 UTC] [INFO] Successfully downloaded image with ID: 10
+[09:18:38 UTC] [INFO] Replaced image URL in innerHTML
+[09:18:38 UTC] [INFO] Updated alt text to: Interior view of a room under renovation with paint, tiles, and tools.
+[09:18:38 UTC] [INFO] Updated tablet image URL: http://zeit-services.test/wp-content/uploads/2026/07/pexels-photo-36035072.jpeg
+[09:18:38 UTC] [INFO] Updated mobile image URL: http://zeit-services.test/wp-content/uploads/2026/07/pexels-photo-36035072.jpeg
+[09:18:38 UTC] [INFO] Updated image ID from 787 to 10
+[09:18:38 UTC] [INFO] Replaced image URL in 1 inner content items
+[09:18:38 UTC] [INFO] Successfully replaced Spectra image - Old: http://zeit-services.test/wp-content/uploads/2024/04/gallery-05.jpg, New: http://zeit-services.test/wp-content/uploads/2026/07/pexels-photo-36035072.jpeg
+[09:18:38 UTC] [INFO] Completed get_updated_blocks - Processed: 2, Skipped: 0
+[09:18:38 UTC] [INFO] Completed get_updated_blocks - Processed: 4, Skipped: 0
+[09:18:38 UTC] [INFO] Processing block #9 - Block type: 
+[09:18:38 UTC] [INFO] Checking block for image replacement: 
+[09:18:38 UTC] [INFO] Processing block #10 - Block type: uagb/container
+[09:18:38 UTC] [INFO] Checking block for image replacement: uagb/container
+[09:18:38 UTC] [INFO] Starting parse_spectra_container
+[09:18:38 UTC] [INFO] No background image or skipable image, returning block unchanged
+[09:18:38 UTC] [INFO] Processing 3 inner blocks for block #10
+[09:18:38 UTC] [INFO] Processing 3 blocks for updates
+[09:18:38 UTC] [INFO] Processing block #0 - Block type: uagb/advanced-heading
+[09:18:38 UTC] [INFO] Checking block for image replacement: uagb/advanced-heading
+[09:18:38 UTC] [INFO] Processing block #1 - Block type: uagb/advanced-heading
+[09:18:38 UTC] [INFO] Checking block for image replacement: uagb/advanced-heading
+[09:18:38 UTC] [INFO] Processing block #2 - Block type: uagb/container
+[09:18:38 UTC] [INFO] Checking block for image replacement: uagb/container
+[09:18:38 UTC] [INFO] Starting parse_spectra_container
+[09:18:38 UTC] [INFO] No background image or skipable image, returning block unchanged
+[09:18:38 UTC] [INFO] Processing 3 inner blocks for block #2
+[09:18:38 UTC] [INFO] Processing 3 blocks for updates
+[09:18:38 UTC] [INFO] Processing block #0 - Block type: uagb/container
+[09:18:38 UTC] [INFO] Checking block for image replacement: uagb/container
+[09:18:38 UTC] [INFO] Starting parse_spectra_container
+[09:18:38 UTC] [INFO] No background image or skipable image, returning block unchanged
+[09:18:38 UTC] [INFO] Processing 2 inner blocks for block #0
+[09:18:38 UTC] [INFO] Processing 2 blocks for updates
+[09:18:38 UTC] [INFO] Processing block #0 - Block type: uagb/container
+[09:18:38 UTC] [INFO] Checking block for image replacement: uagb/container
+[09:18:38 UTC] [INFO] Starting parse_spectra_container
+[09:18:38 UTC] [INFO] No background image or skipable image, returning block unchanged
+[09:18:38 UTC] [INFO] Processing 2 inner blocks for block #0
+[09:18:38 UTC] [INFO] Processing 2 blocks for updates
+[09:18:38 UTC] [INFO] Processing block #0 - Block type: uagb/star-rating
+[09:18:38 UTC] [INFO] Checking block for image replacement: uagb/star-rating
+[09:18:38 UTC] [INFO] Processing block #1 - Block type: uagb/testimonial
+[09:18:38 UTC] [INFO] Checking block for image replacement: uagb/testimonial
+[09:18:38 UTC] [INFO] Completed get_updated_blocks - Processed: 2, Skipped: 0
+[09:18:38 UTC] [INFO] Processing block #1 - Block type: uagb/container
+[09:18:38 UTC] [INFO] Checking block for image replacement: uagb/container
+[09:18:38 UTC] [INFO] Starting parse_spectra_container
+[09:18:38 UTC] [INFO] No background image or skipable image, returning block unchanged
+[09:18:38 UTC] [INFO] Processing 2 inner blocks for block #1
+[09:18:38 UTC] [INFO] Processing 2 blocks for updates
+[09:18:38 UTC] [INFO] Processing block #0 - Block type: uagb/star-rating
+[09:18:38 UTC] [INFO] Checking block for image replacement: uagb/star-rating
+[09:18:38 UTC] [INFO] Processing block #1 - Block type: uagb/testimonial
+[09:18:38 UTC] [INFO] Checking block for image replacement: uagb/testimonial
+[09:18:38 UTC] [INFO] Completed get_updated_blocks - Processed: 2, Skipped: 0
+[09:18:38 UTC] [INFO] Completed get_updated_blocks - Processed: 2, Skipped: 0
+[09:18:38 UTC] [INFO] Processing block #1 - Block type: uagb/container
+[09:18:38 UTC] [INFO] Checking block for image replacement: uagb/container
+[09:18:38 UTC] [INFO] Starting parse_spectra_container
+[09:18:38 UTC] [INFO] No background image or skipable image, returning block unchanged
+[09:18:38 UTC] [INFO] Processing 2 inner blocks for block #1
+[09:18:38 UTC] [INFO] Processing 2 blocks for updates
+[09:18:38 UTC] [INFO] Processing block #0 - Block type: uagb/container
+[09:18:38 UTC] [INFO] Checking block for image replacement: uagb/container
+[09:18:38 UTC] [INFO] Starting parse_spectra_container
+[09:18:38 UTC] [INFO] No background image or skipable image, returning block unchanged
+[09:18:38 UTC] [INFO] Processing 2 inner blocks for block #0
+[09:18:38 UTC] [INFO] Processing 2 blocks for updates
+[09:18:38 UTC] [INFO] Processing block #0 - Block type: uagb/star-rating
+[09:18:38 UTC] [INFO] Checking block for image replacement: uagb/star-rating
+[09:18:38 UTC] [INFO] Processing block #1 - Block type: uagb/testimonial
+[09:18:38 UTC] [INFO] Checking block for image replacement: uagb/testimonial
+[09:18:38 UTC] [INFO] Completed get_updated_blocks - Processed: 2, Skipped: 0
+[09:18:38 UTC] [INFO] Processing block #1 - Block type: uagb/container
+[09:18:38 UTC] [INFO] Checking block for image replacement: uagb/container
+[09:18:38 UTC] [INFO] Starting parse_spectra_container
+[09:18:38 UTC] [INFO] No background image or skipable image, returning block unchanged
+[09:18:38 UTC] [INFO] Processing 2 inner blocks for block #1
+[09:18:38 UTC] [INFO] Processing 2 blocks for updates
+[09:18:38 UTC] [INFO] Processing block #0 - Block type: uagb/star-rating
+[09:18:38 UTC] [INFO] Checking block for image replacement: uagb/star-rating
+[09:18:38 UTC] [INFO] Processing block #1 - Block type: uagb/testimonial
+[09:18:38 UTC] [INFO] Checking block for image replacement: uagb/testimonial
+[09:18:38 UTC] [INFO] Completed get_updated_blocks - Processed: 2, Skipped: 0
+[09:18:38 UTC] [INFO] Completed get_updated_blocks - Processed: 2, Skipped: 0
+[09:18:38 UTC] [INFO] Processing block #2 - Block type: uagb/container
+[09:18:38 UTC] [INFO] Checking block for image replacement: uagb/container
+[09:18:38 UTC] [INFO] Starting parse_spectra_container
+[09:18:38 UTC] [INFO] No background image or skipable image, returning block unchanged
+[09:18:38 UTC] [INFO] Processing 2 inner blocks for block #2
+[09:18:38 UTC] [INFO] Processing 2 blocks for updates
+[09:18:38 UTC] [INFO] Processing block #0 - Block type: uagb/container
+[09:18:38 UTC] [INFO] Checking block for image replacement: uagb/container
+[09:18:38 UTC] [INFO] Starting parse_spectra_container
+[09:18:38 UTC] [INFO] No background image or skipable image, returning block unchanged
+[09:18:38 UTC] [INFO] Processing 2 inner blocks for block #0
+[09:18:38 UTC] [INFO] Processing 2 blocks for updates
+[09:18:38 UTC] [INFO] Processing block #0 - Block type: uagb/star-rating
+[09:18:38 UTC] [INFO] Checking block for image replacement: uagb/star-rating
+[09:18:38 UTC] [INFO] Processing block #1 - Block type: uagb/testimonial
+[09:18:38 UTC] [INFO] Checking block for image replacement: uagb/testimonial
+[09:18:38 UTC] [INFO] Completed get_updated_blocks - Processed: 2, Skipped: 0
+[09:18:38 UTC] [INFO] Processing block #1 - Block type: uagb/container
+[09:18:38 UTC] [INFO] Checking block for image replacement: uagb/container
+[09:18:38 UTC] [INFO] Starting parse_spectra_container
+[09:18:38 UTC] [INFO] No background image or skipable image, returning block unchanged
+[09:18:38 UTC] [INFO] Processing 2 inner blocks for block #1
+[09:18:38 UTC] [INFO] Processing 2 blocks for updates
+[09:18:38 UTC] [INFO] Processing block #0 - Block type: uagb/star-rating
+[09:18:38 UTC] [INFO] Checking block for image replacement: uagb/star-rating
+[09:18:38 UTC] [INFO] Processing block #1 - Block type: uagb/testimonial
+[09:18:38 UTC] [INFO] Checking block for image replacement: uagb/testimonial
+[09:18:38 UTC] [INFO] Completed get_updated_blocks - Processed: 2, Skipped: 0
+[09:18:38 UTC] [INFO] Completed get_updated_blocks - Processed: 2, Skipped: 0
+[09:18:38 UTC] [INFO] Completed get_updated_blocks - Processed: 3, Skipped: 0
+[09:18:38 UTC] [INFO] Completed get_updated_blocks - Processed: 3, Skipped: 0
+[09:18:38 UTC] [INFO] Processing block #11 - Block type: 
+[09:18:38 UTC] [INFO] Checking block for image replacement: 
+[09:18:38 UTC] [INFO] Processing block #12 - Block type: core/block
+[09:18:38 UTC] [INFO] Found reusable block with ID: 514
+[09:18:38 UTC] [INFO] Added reusable block to tracking list: 514
+[09:18:39 UTC] [INFO] Starting parse_replace_images for post ID: 514
+[09:18:39 UTC] [INFO] Parsed 1 blocks from post content
+[09:18:39 UTC] [INFO] Processing 1 blocks for updates
+[09:18:39 UTC] [INFO] Processing block #0 - Block type: uagb/container
+[09:18:39 UTC] [INFO] Checking block for image replacement: uagb/container
+[09:18:39 UTC] [INFO] Starting parse_spectra_container
+[09:18:39 UTC] [INFO] No background image or skipable image, returning block unchanged
+[09:18:39 UTC] [INFO] Processing 1 inner blocks for block #0
+[09:18:39 UTC] [INFO] Processing 1 blocks for updates
+[09:18:39 UTC] [INFO] Processing block #0 - Block type: uagb/container
+[09:18:39 UTC] [INFO] Checking block for image replacement: uagb/container
+[09:18:39 UTC] [INFO] Starting parse_spectra_container
+[09:18:39 UTC] [INFO] No background image or skipable image, returning block unchanged
+[09:18:39 UTC] [INFO] Processing 2 inner blocks for block #0
+[09:18:39 UTC] [INFO] Processing 2 blocks for updates
+[09:18:39 UTC] [INFO] Processing block #0 - Block type: uagb/info-box
+[09:18:39 UTC] [INFO] Checking block for image replacement: uagb/info-box
+[09:18:39 UTC] [INFO] Starting parse_spectra_infobox
+[09:18:39 UTC] [INFO] No icon image or skipable image, returning block unchanged
+[09:18:39 UTC] [INFO] Processing block #1 - Block type: uagb/buttons
+[09:18:39 UTC] [INFO] Checking block for image replacement: uagb/buttons
+[09:18:39 UTC] [INFO] Processing 1 inner blocks for block #1
+[09:18:39 UTC] [INFO] Processing 1 blocks for updates
+[09:18:39 UTC] [INFO] Processing block #0 - Block type: uagb/buttons-child
+[09:18:39 UTC] [INFO] Checking block for image replacement: uagb/buttons-child
+[09:18:39 UTC] [INFO] Completed get_updated_blocks - Processed: 1, Skipped: 0
+[09:18:39 UTC] [INFO] Completed get_updated_blocks - Processed: 2, Skipped: 0
+[09:18:39 UTC] [INFO] Completed get_updated_blocks - Processed: 1, Skipped: 0
+[09:18:39 UTC] [INFO] Completed get_updated_blocks - Processed: 1, Skipped: 0
+[09:18:39 UTC] [INFO] Serialized updated blocks into content
+[09:18:39 UTC] [INFO] Starting replace_content_glitch
+[09:18:39 UTC] [INFO] Completed replace_content_glitch
+[09:18:39 UTC] [INFO] Completed parse_replace_images for post ID: 514
+[09:18:39 UTC] [INFO] Successfully updated reusable block ID: 514
+[09:18:39 UTC] [INFO] Checking block for image replacement: core/block
+[09:18:39 UTC] [INFO] Completed get_updated_blocks - Processed: 13, Skipped: 0
+[09:18:39 UTC] [INFO] Serialized updated blocks into content
+[09:18:39 UTC] [INFO] Starting replace_content_glitch
+[09:18:39 UTC] [INFO] Completed replace_content_glitch
+[09:18:39 UTC] [INFO] Completed parse_replace_images for post ID: 29
+[09:18:39 UTC] [INFO] Updated page content | Context: {"post_id":29}
+[09:18:39 UTC] [INFO] Starting parse_replace_images for post ID: 724
+[09:18:39 UTC] [INFO] Parsed 0 blocks from post content
+[09:18:39 UTC] [INFO] Processing 0 blocks for updates
+[09:18:39 UTC] [INFO] Completed get_updated_blocks - Processed: 0, Skipped: 0
+[09:18:39 UTC] [INFO] Serialized updated blocks into content
+[09:18:39 UTC] [INFO] Starting replace_content_glitch
+[09:18:39 UTC] [INFO] Completed replace_content_glitch
+[09:18:39 UTC] [INFO] Completed parse_replace_images for post ID: 724
+[09:18:39 UTC] [INFO] Updated page content | Context: {"post_id":724}
+[09:18:39 UTC] [INFO] Starting parse_replace_images for post ID: 32
+[09:18:39 UTC] [INFO] Parsed 5 blocks from post content
+[09:18:39 UTC] [INFO] Processing 5 blocks for updates
+[09:18:39 UTC] [INFO] Processing block #0 - Block type: uagb/container
+[09:18:39 UTC] [INFO] Checking block for image replacement: uagb/container
+[09:18:39 UTC] [INFO] Starting parse_spectra_container
+[09:18:39 UTC] [INFO] No background image or skipable image, returning block unchanged
+[09:18:39 UTC] [INFO] Processing 1 inner blocks for block #0
+[09:18:39 UTC] [INFO] Processing 1 blocks for updates
+[09:18:39 UTC] [INFO] Processing block #0 - Block type: uagb/advanced-heading
+[09:18:39 UTC] [INFO] Checking block for image replacement: uagb/advanced-heading
+[09:18:39 UTC] [INFO] Completed get_updated_blocks - Processed: 1, Skipped: 0
+[09:18:39 UTC] [INFO] Processing block #1 - Block type: 
+[09:18:39 UTC] [INFO] Checking block for image replacement: 
+[09:18:39 UTC] [INFO] Processing block #2 - Block type: uagb/container
+[09:18:39 UTC] [INFO] Checking block for image replacement: uagb/container
+[09:18:39 UTC] [INFO] Starting parse_spectra_container
+[09:18:39 UTC] [INFO] No background image or skipable image, returning block unchanged
+[09:18:39 UTC] [INFO] Processing 2 inner blocks for block #2
+[09:18:39 UTC] [INFO] Processing 2 blocks for updates
+[09:18:39 UTC] [INFO] Processing block #0 - Block type: uagb/container
+[09:18:39 UTC] [INFO] Checking block for image replacement: uagb/container
+[09:18:39 UTC] [INFO] Starting parse_spectra_container
+[09:18:39 UTC] [INFO] No background image or skipable image, returning block unchanged
+[09:18:39 UTC] [INFO] Processing 5 inner blocks for block #0
+[09:18:39 UTC] [INFO] Processing 5 blocks for updates
+[09:18:39 UTC] [INFO] Processing block #0 - Block type: uagb/advanced-heading
+[09:18:39 UTC] [INFO] Checking block for image replacement: uagb/advanced-heading
+[09:18:39 UTC] [INFO] Processing block #1 - Block type: uagb/advanced-heading
+[09:18:39 UTC] [INFO] Checking block for image replacement: uagb/advanced-heading
+[09:18:39 UTC] [INFO] Processing block #2 - Block type: uagb/advanced-heading
+[09:18:39 UTC] [INFO] Checking block for image replacement: uagb/advanced-heading
+[09:18:39 UTC] [INFO] Processing block #3 - Block type: uagb/advanced-heading
+[09:18:39 UTC] [INFO] Checking block for image replacement: uagb/advanced-heading
+[09:18:39 UTC] [INFO] Processing block #4 - Block type: uagb/icon-list
+[09:18:39 UTC] [INFO] Checking block for image replacement: uagb/icon-list
+[09:18:39 UTC] [INFO] Starting parse_social_icons
+[09:18:39 UTC] [INFO] Retrieved 1 social profiles
+[09:18:39 UTC] [INFO] Social icons to process: instagram, phone
+[09:18:39 UTC] [INFO] Found facebook icon, processing inner blocks
+[09:18:39 UTC] [INFO] Removed social icon not in profile: facebook
+[09:18:39 UTC] [INFO] Removed social icon not in profile: twitter
+[09:18:39 UTC] [INFO] Removed social icon not in profile: linkedin
+[09:18:39 UTC] [INFO] Removed social icon not in profile: youtube
+[09:18:39 UTC] [INFO] Removed 4 social icons not in profile
+[09:18:39 UTC] [INFO] Added 0 Yelp/Google icons
+[09:18:39 UTC] [INFO] Completed parse_social_icons
+[09:18:39 UTC] [INFO] Processing 1 inner blocks for block #4
+[09:18:39 UTC] [INFO] Processing 1 blocks for updates
+[09:18:39 UTC] [INFO] Processing block #0 - Block type: uagb/icon-list-child
+[09:18:39 UTC] [INFO] Checking block for image replacement: uagb/icon-list-child
+[09:18:39 UTC] [INFO] Completed get_updated_blocks - Processed: 1, Skipped: 0
+[09:18:39 UTC] [INFO] Completed get_updated_blocks - Processed: 5, Skipped: 0
+[09:18:39 UTC] [INFO] Processing block #1 - Block type: uagb/container
+[09:18:39 UTC] [INFO] Checking block for image replacement: uagb/container
+[09:18:39 UTC] [INFO] Starting parse_spectra_container
+[09:18:39 UTC] [INFO] No background image or skipable image, returning block unchanged
+[09:18:39 UTC] [INFO] Processing 1 inner blocks for block #1
+[09:18:39 UTC] [INFO] Processing 1 blocks for updates
+[09:18:39 UTC] [INFO] Processing block #0 - Block type: core/shortcode
+[09:18:39 UTC] [INFO] Checking block for image replacement: core/shortcode
+[09:18:39 UTC] [INFO] Completed get_updated_blocks - Processed: 1, Skipped: 0
+[09:18:39 UTC] [INFO] Completed get_updated_blocks - Processed: 2, Skipped: 0
+[09:18:39 UTC] [INFO] Processing block #3 - Block type: 
+[09:18:39 UTC] [INFO] Checking block for image replacement: 
+[09:18:39 UTC] [INFO] Processing block #4 - Block type: core/block
+[09:18:39 UTC] [INFO] Found reusable block with ID: 514
+[09:18:39 UTC] [INFO] Reusable block already processed, skipping ID: 514
+[09:18:39 UTC] [INFO] Completed get_updated_blocks - Processed: 4, Skipped: 0
+[09:18:39 UTC] [INFO] Serialized updated blocks into content
+[09:18:39 UTC] [INFO] Starting replace_content_glitch
+[09:18:39 UTC] [INFO] Completed replace_content_glitch
+[09:18:39 UTC] [INFO] Completed parse_replace_images for post ID: 32
+[09:18:39 UTC] [INFO] Updated page content | Context: {"post_id":32}
+[09:18:39 UTC] [INFO] Starting parse_replace_images for post ID: 31
+[09:18:39 UTC] [INFO] Parsed 7 blocks from post content
+[09:18:39 UTC] [INFO] Processing 7 blocks for updates
+[09:18:39 UTC] [INFO] Processing block #0 - Block type: uagb/container
+[09:18:39 UTC] [INFO] Checking block for image replacement: uagb/container
+[09:18:39 UTC] [INFO] Starting parse_spectra_container
+[09:18:39 UTC] [INFO] No background image or skipable image, returning block unchanged
+[09:18:39 UTC] [INFO] Processing 1 inner blocks for block #0
+[09:18:39 UTC] [INFO] Processing 1 blocks for updates
+[09:18:39 UTC] [INFO] Processing block #0 - Block type: uagb/advanced-heading
+[09:18:39 UTC] [INFO] Checking block for image replacement: uagb/advanced-heading
+[09:18:39 UTC] [INFO] Completed get_updated_blocks - Processed: 1, Skipped: 0
+[09:18:39 UTC] [INFO] Processing block #1 - Block type: 
+[09:18:39 UTC] [INFO] Checking block for image replacement: 
+[09:18:39 UTC] [INFO] Processing block #2 - Block type: uagb/container
+[09:18:39 UTC] [INFO] Checking block for image replacement: uagb/container
+[09:18:39 UTC] [INFO] Starting parse_spectra_container
+[09:18:39 UTC] [INFO] No background image or skipable image, returning block unchanged
+[09:18:39 UTC] [INFO] Processing 4 inner blocks for block #2
+[09:18:39 UTC] [INFO] Processing 4 blocks for updates
+[09:18:39 UTC] [INFO] Processing block #0 - Block type: uagb/container
+[09:18:39 UTC] [INFO] Checking block for image replacement: uagb/container
+[09:18:39 UTC] [INFO] Starting parse_spectra_container
+[09:18:39 UTC] [INFO] No background image or skipable image, returning block unchanged
+[09:18:39 UTC] [INFO] Processing 2 inner blocks for block #0
+[09:18:39 UTC] [INFO] Processing 2 blocks for updates
+[09:18:39 UTC] [INFO] Processing block #0 - Block type: uagb/container
+[09:18:39 UTC] [INFO] Checking block for image replacement: uagb/container
+[09:18:39 UTC] [INFO] Starting parse_spectra_container
+[09:18:39 UTC] [INFO] No background image or skipable image, returning block unchanged
+[09:18:39 UTC] [INFO] Processing 1 inner blocks for block #0
+[09:18:39 UTC] [INFO] Processing 1 blocks for updates
+[09:18:39 UTC] [INFO] Processing block #0 - Block type: uagb/image
+[09:18:39 UTC] [INFO] Checking block for image replacement: uagb/image
+[09:18:39 UTC] [INFO] Starting parse_spectra_image
+[09:18:39 UTC] [INFO] Found image to replace: http://zeit-services.test/wp-content/uploads/2023/08/program-01.jpg
+[09:18:39 UTC] [INFO] Retrieved replacement image from index: 1
+[09:18:39 UTC] [INFO] Successfully downloaded image with ID: 11
+[09:18:39 UTC] [INFO] Replaced image URL in innerHTML
+[09:18:39 UTC] [INFO] Updated alt text to: Flat lay of home improvement tools, paint samples, and blueprints for a DIY project.
+[09:18:39 UTC] [INFO] Updated tablet image URL: http://zeit-services.test/wp-content/uploads/2026/07/pexels-photo-6474497.jpeg
+[09:18:39 UTC] [INFO] Updated mobile image URL: http://zeit-services.test/wp-content/uploads/2026/07/pexels-photo-6474497.jpeg
+[09:18:39 UTC] [INFO] Updated image ID from 59 to 11
+[09:18:39 UTC] [INFO] Replaced image URL in 1 inner content items
+[09:18:39 UTC] [INFO] Successfully replaced Spectra image - Old: http://zeit-services.test/wp-content/uploads/2023/08/program-01.jpg, New: http://zeit-services.test/wp-content/uploads/2026/07/pexels-photo-6474497.jpeg
+[09:18:39 UTC] [INFO] Completed get_updated_blocks - Processed: 1, Skipped: 0
+[09:18:39 UTC] [INFO] Processing block #1 - Block type: uagb/container
+[09:18:39 UTC] [INFO] Checking block for image replacement: uagb/container
+[09:18:39 UTC] [INFO] Starting parse_spectra_container
+[09:18:39 UTC] [INFO] No background image or skipable image, returning block unchanged
+[09:18:39 UTC] [INFO] Processing 2 inner blocks for block #1
+[09:18:39 UTC] [INFO] Processing 2 blocks for updates
+[09:18:39 UTC] [INFO] Processing block #0 - Block type: uagb/advanced-heading
+[09:18:39 UTC] [INFO] Checking block for image replacement: uagb/advanced-heading
+[09:18:39 UTC] [INFO] Processing block #1 - Block type: uagb/advanced-heading
+[09:18:39 UTC] [INFO] Checking block for image replacement: uagb/advanced-heading
+[09:18:39 UTC] [INFO] Completed get_updated_blocks - Processed: 2, Skipped: 0
+[09:18:39 UTC] [INFO] Completed get_updated_blocks - Processed: 2, Skipped: 0
+[09:18:39 UTC] [INFO] Processing block #1 - Block type: uagb/container
+[09:18:39 UTC] [INFO] Checking block for image replacement: uagb/container
+[09:18:39 UTC] [INFO] Starting parse_spectra_container
+[09:18:39 UTC] [INFO] No background image or skipable image, returning block unchanged
+[09:18:39 UTC] [INFO] Processing 2 inner blocks for block #1
+[09:18:39 UTC] [INFO] Processing 2 blocks for updates
+[09:18:39 UTC] [INFO] Processing block #0 - Block type: uagb/container
+[09:18:39 UTC] [INFO] Checking block for image replacement: uagb/container
+[09:18:39 UTC] [INFO] Starting parse_spectra_container
+[09:18:39 UTC] [INFO] No background image or skipable image, returning block unchanged
+[09:18:39 UTC] [INFO] Processing 2 inner blocks for block #0
+[09:18:39 UTC] [INFO] Processing 2 blocks for updates
+[09:18:39 UTC] [INFO] Processing block #0 - Block type: uagb/advanced-heading
+[09:18:39 UTC] [INFO] Checking block for image replacement: uagb/advanced-heading
+[09:18:39 UTC] [INFO] Processing block #1 - Block type: uagb/advanced-heading
+[09:18:39 UTC] [INFO] Checking block for image replacement: uagb/advanced-heading
+[09:18:39 UTC] [INFO] Completed get_updated_blocks - Processed: 2, Skipped: 0
+[09:18:39 UTC] [INFO] Processing block #1 - Block type: uagb/container
+[09:18:39 UTC] [INFO] Checking block for image replacement: uagb/container
+[09:18:39 UTC] [INFO] Starting parse_spectra_container
+[09:18:39 UTC] [INFO] No background image or skipable image, returning block unchanged
+[09:18:39 UTC] [INFO] Processing 1 inner blocks for block #1
+[09:18:39 UTC] [INFO] Processing 1 blocks for updates
+[09:18:39 UTC] [INFO] Processing block #0 - Block type: uagb/image
+[09:18:39 UTC] [INFO] Checking block for image replacement: uagb/image
+[09:18:39 UTC] [INFO] Starting parse_spectra_image
+[09:18:39 UTC] [INFO] Found image to replace: http://zeit-services.test/wp-content/uploads/2023/08/program-02.jpg
+[09:18:39 UTC] [INFO] Retrieved replacement image from index: 2
+[09:18:39 UTC] [INFO] Successfully downloaded image with ID: 12
+[09:18:39 UTC] [INFO] Replaced image URL in innerHTML
+[09:18:39 UTC] [INFO] Updated alt text to: A skilled craftsman working on a wooden piece using a power drill, showcasing precision and expertise.
+[09:18:39 UTC] [INFO] Updated tablet image URL: http://zeit-services.test/wp-content/uploads/2026/07/pexels-photo-7285926.jpeg
+[09:18:39 UTC] [INFO] Updated mobile image URL: http://zeit-services.test/wp-content/uploads/2026/07/pexels-photo-7285926.jpeg
+[09:18:39 UTC] [INFO] Updated image ID from 60 to 12
+[09:18:39 UTC] [INFO] Replaced image URL in 1 inner content items
+[09:18:39 UTC] [INFO] Successfully replaced Spectra image - Old: http://zeit-services.test/wp-content/uploads/2023/08/program-02.jpg, New: http://zeit-services.test/wp-content/uploads/2026/07/pexels-photo-7285926.jpeg
+[09:18:39 UTC] [INFO] Completed get_updated_blocks - Processed: 1, Skipped: 0
+[09:18:39 UTC] [INFO] Completed get_updated_blocks - Processed: 2, Skipped: 0
+[09:18:39 UTC] [INFO] Processing block #2 - Block type: uagb/container
+[09:18:39 UTC] [INFO] Checking block for image replacement: uagb/container
+[09:18:39 UTC] [INFO] Starting parse_spectra_container
+[09:18:39 UTC] [INFO] No background image or skipable image, returning block unchanged
+[09:18:39 UTC] [INFO] Processing 2 inner blocks for block #2
+[09:18:39 UTC] [INFO] Processing 2 blocks for updates
+[09:18:39 UTC] [INFO] Processing block #0 - Block type: uagb/container
+[09:18:39 UTC] [INFO] Checking block for image replacement: uagb/container
+[09:18:39 UTC] [INFO] Starting parse_spectra_container
+[09:18:39 UTC] [INFO] No background image or skipable image, returning block unchanged
+[09:18:39 UTC] [INFO] Processing 1 inner blocks for block #0
+[09:18:39 UTC] [INFO] Processing 1 blocks for updates
+[09:18:39 UTC] [INFO] Processing block #0 - Block type: uagb/image
+[09:18:39 UTC] [INFO] Checking block for image replacement: uagb/image
+[09:18:39 UTC] [INFO] Starting parse_spectra_image
+[09:18:39 UTC] [INFO] Found image to replace: http://zeit-services.test/wp-content/uploads/2023/08/program-03.jpg
+[09:18:39 UTC] [INFO] Retrieved replacement image from index: 3
+[09:18:39 UTC] [INFO] Successfully downloaded image with ID: 13
+[09:18:39 UTC] [INFO] Replaced image URL in innerHTML
+[09:18:39 UTC] [INFO] Updated alt text to: Window frame on floor near wooden doors and heating system in light apartment during renovation process
+[09:18:39 UTC] [INFO] Updated tablet image URL: http://zeit-services.test/wp-content/uploads/2026/07/pexels-photo-5691549.jpeg
+[09:18:39 UTC] [INFO] Updated mobile image URL: http://zeit-services.test/wp-content/uploads/2026/07/pexels-photo-5691549.jpeg
+[09:18:39 UTC] [INFO] Updated image ID from 61 to 13
+[09:18:39 UTC] [INFO] Replaced image URL in 1 inner content items
+[09:18:39 UTC] [INFO] Successfully replaced Spectra image - Old: http://zeit-services.test/wp-content/uploads/2023/08/program-03.jpg, New: http://zeit-services.test/wp-content/uploads/2026/07/pexels-photo-5691549.jpeg
+[09:18:39 UTC] [INFO] Completed get_updated_blocks - Processed: 1, Skipped: 0
+[09:18:39 UTC] [INFO] Processing block #1 - Block type: uagb/container
+[09:18:39 UTC] [INFO] Checking block for image replacement: uagb/container
+[09:18:39 UTC] [INFO] Starting parse_spectra_container
+[09:18:39 UTC] [INFO] No background image or skipable image, returning block unchanged
+[09:18:39 UTC] [INFO] Processing 2 inner blocks for block #1
+[09:18:39 UTC] [INFO] Processing 2 blocks for updates
+[09:18:39 UTC] [INFO] Processing block #0 - Block type: uagb/advanced-heading
+[09:18:39 UTC] [INFO] Checking block for image replacement: uagb/advanced-heading
+[09:18:39 UTC] [INFO] Processing block #1 - Block type: uagb/advanced-heading
+[09:18:39 UTC] [INFO] Checking block for image replacement: uagb/advanced-heading
+[09:18:39 UTC] [INFO] Completed get_updated_blocks - Processed: 2, Skipped: 0
+[09:18:39 UTC] [INFO] Completed get_updated_blocks - Processed: 2, Skipped: 0
+[09:18:39 UTC] [INFO] Processing block #3 - Block type: uagb/container
+[09:18:39 UTC] [INFO] Checking block for image replacement: uagb/container
+[09:18:39 UTC] [INFO] Starting parse_spectra_container
+[09:18:39 UTC] [INFO] No background image or skipable image, returning block unchanged
+[09:18:39 UTC] [INFO] Processing 2 inner blocks for block #3
+[09:18:39 UTC] [INFO] Processing 2 blocks for updates
+[09:18:39 UTC] [INFO] Processing block #0 - Block type: uagb/container
+[09:18:39 UTC] [INFO] Checking block for image replacement: uagb/container
+[09:18:39 UTC] [INFO] Starting parse_spectra_container
+[09:18:39 UTC] [INFO] No background image or skipable image, returning block unchanged
+[09:18:39 UTC] [INFO] Processing 2 inner blocks for block #0
+[09:18:40 UTC] [INFO] Processing 2 blocks for updates
+[09:18:40 UTC] [INFO] Processing block #0 - Block type: uagb/advanced-heading
+[09:18:40 UTC] [INFO] Checking block for image replacement: uagb/advanced-heading
+[09:18:40 UTC] [INFO] Processing block #1 - Block type: uagb/advanced-heading
+[09:18:40 UTC] [INFO] Checking block for image replacement: uagb/advanced-heading
+[09:18:40 UTC] [INFO] Completed get_updated_blocks - Processed: 2, Skipped: 0
+[09:18:40 UTC] [INFO] Processing block #1 - Block type: uagb/container
+[09:18:40 UTC] [INFO] Checking block for image replacement: uagb/container
+[09:18:40 UTC] [INFO] Starting parse_spectra_container
+[09:18:40 UTC] [INFO] No background image or skipable image, returning block unchanged
+[09:18:40 UTC] [INFO] Processing 1 inner blocks for block #1
+[09:18:40 UTC] [INFO] Processing 1 blocks for updates
+[09:18:40 UTC] [INFO] Processing block #0 - Block type: uagb/image
+[09:18:40 UTC] [INFO] Checking block for image replacement: uagb/image
+[09:18:40 UTC] [INFO] Starting parse_spectra_image
+[09:18:40 UTC] [INFO] Found image to replace: http://zeit-services.test/wp-content/uploads/2023/08/program-04.jpg
+[09:18:40 UTC] [INFO] Retrieved replacement image from index: 4
+[09:18:40 UTC] [INFO] Successfully downloaded image with ID: 14
+[09:18:40 UTC] [INFO] Replaced image URL in innerHTML
+[09:18:40 UTC] [INFO] Updated alt text to: A happy construction worker using a drill indoors during renovation.
+[09:18:40 UTC] [INFO] Updated tablet image URL: http://zeit-services.test/wp-content/uploads/2026/07/pexels-photo-5493672.jpeg
+[09:18:40 UTC] [INFO] Updated mobile image URL: http://zeit-services.test/wp-content/uploads/2026/07/pexels-photo-5493672.jpeg
+[09:18:40 UTC] [INFO] Updated image ID from 62 to 14
+[09:18:40 UTC] [INFO] Replaced image URL in 1 inner content items
+[09:18:40 UTC] [INFO] Successfully replaced Spectra image - Old: http://zeit-services.test/wp-content/uploads/2023/08/program-04.jpg, New: http://zeit-services.test/wp-content/uploads/2026/07/pexels-photo-5493672.jpeg
+[09:18:40 UTC] [INFO] Completed get_updated_blocks - Processed: 1, Skipped: 0
+[09:18:40 UTC] [INFO] Completed get_updated_blocks - Processed: 2, Skipped: 0
+[09:18:40 UTC] [INFO] Completed get_updated_blocks - Processed: 4, Skipped: 0
+[09:18:40 UTC] [INFO] Processing block #3 - Block type: 
+[09:18:40 UTC] [INFO] Checking block for image replacement: 
+[09:18:40 UTC] [INFO] Processing block #4 - Block type: uagb/container
+[09:18:40 UTC] [INFO] Checking block for image replacement: uagb/container
+[09:18:40 UTC] [INFO] Starting parse_spectra_container
+[09:18:40 UTC] [INFO] No background image or skipable image, returning block unchanged
+[09:18:40 UTC] [INFO] Processing 2 inner blocks for block #4
+[09:18:40 UTC] [INFO] Processing 2 blocks for updates
+[09:18:40 UTC] [INFO] Processing block #0 - Block type: uagb/advanced-heading
+[09:18:40 UTC] [INFO] Checking block for image replacement: uagb/advanced-heading
+[09:18:40 UTC] [INFO] Processing block #1 - Block type: uagb/container
+[09:18:40 UTC] [INFO] Checking block for image replacement: uagb/container
+[09:18:40 UTC] [INFO] Starting parse_spectra_container
+[09:18:40 UTC] [INFO] No background image or skipable image, returning block unchanged
+[09:18:40 UTC] [INFO] Processing 2 inner blocks for block #1
+[09:18:40 UTC] [INFO] Processing 2 blocks for updates
+[09:18:40 UTC] [INFO] Processing block #0 - Block type: uagb/container
+[09:18:40 UTC] [INFO] Checking block for image replacement: uagb/container
+[09:18:40 UTC] [INFO] Starting parse_spectra_container
+[09:18:40 UTC] [INFO] No background image or skipable image, returning block unchanged
+[09:18:40 UTC] [INFO] Processing 2 inner blocks for block #0
+[09:18:40 UTC] [INFO] Processing 2 blocks for updates
+[09:18:40 UTC] [INFO] Processing block #0 - Block type: uagb/advanced-heading
+[09:18:40 UTC] [INFO] Checking block for image replacement: uagb/advanced-heading
+[09:18:40 UTC] [INFO] Processing block #1 - Block type: uagb/advanced-heading
+[09:18:40 UTC] [INFO] Checking block for image replacement: uagb/advanced-heading
+[09:18:40 UTC] [INFO] Completed get_updated_blocks - Processed: 2, Skipped: 0
+[09:18:40 UTC] [INFO] Processing block #1 - Block type: uagb/container
+[09:18:40 UTC] [INFO] Checking block for image replacement: uagb/container
+[09:18:40 UTC] [INFO] Starting parse_spectra_container
+[09:18:40 UTC] [INFO] No background image or skipable image, returning block unchanged
+[09:18:40 UTC] [INFO] Processing 2 inner blocks for block #1
+[09:18:40 UTC] [INFO] Processing 2 blocks for updates
+[09:18:40 UTC] [INFO] Processing block #0 - Block type: uagb/advanced-heading
+[09:18:40 UTC] [INFO] Checking block for image replacement: uagb/advanced-heading
+[09:18:40 UTC] [INFO] Processing block #1 - Block type: uagb/advanced-heading
+[09:18:40 UTC] [INFO] Checking block for image replacement: uagb/advanced-heading
+[09:18:40 UTC] [INFO] Completed get_updated_blocks - Processed: 2, Skipped: 0
+[09:18:40 UTC] [INFO] Completed get_updated_blocks - Processed: 2, Skipped: 0
+[09:18:40 UTC] [INFO] Completed get_updated_blocks - Processed: 2, Skipped: 0
+[09:18:40 UTC] [INFO] Processing block #5 - Block type: 
+[09:18:40 UTC] [INFO] Checking block for image replacement: 
+[09:18:40 UTC] [INFO] Processing block #6 - Block type: core/block
+[09:18:40 UTC] [INFO] Found reusable block with ID: 514
+[09:18:40 UTC] [INFO] Reusable block already processed, skipping ID: 514
+[09:18:40 UTC] [INFO] Completed get_updated_blocks - Processed: 6, Skipped: 0
+[09:18:40 UTC] [INFO] Serialized updated blocks into content
+[09:18:40 UTC] [INFO] Starting replace_content_glitch
+[09:18:40 UTC] [INFO] Completed replace_content_glitch
+[09:18:40 UTC] [INFO] Completed parse_replace_images for post ID: 31
+[09:18:40 UTC] [INFO] Updated page content | Context: {"post_id":31}
+[09:18:40 UTC] [INFO] Starting parse_replace_images for post ID: 30
+[09:18:40 UTC] [INFO] Parsed 9 blocks from post content
+[09:18:40 UTC] [INFO] Processing 9 blocks for updates
+[09:18:40 UTC] [INFO] Processing block #0 - Block type: uagb/container
+[09:18:40 UTC] [INFO] Checking block for image replacement: uagb/container
+[09:18:40 UTC] [INFO] Starting parse_spectra_container
+[09:18:40 UTC] [INFO] No background image or skipable image, returning block unchanged
+[09:18:40 UTC] [INFO] Processing 1 inner blocks for block #0
+[09:18:40 UTC] [INFO] Processing 1 blocks for updates
+[09:18:40 UTC] [INFO] Processing block #0 - Block type: uagb/advanced-heading
+[09:18:40 UTC] [INFO] Checking block for image replacement: uagb/advanced-heading
+[09:18:40 UTC] [INFO] Completed get_updated_blocks - Processed: 1, Skipped: 0
+[09:18:40 UTC] [INFO] Processing block #1 - Block type: 
+[09:18:40 UTC] [INFO] Checking block for image replacement: 
+[09:18:40 UTC] [INFO] Processing block #2 - Block type: uagb/container
+[09:18:40 UTC] [INFO] Checking block for image replacement: uagb/container
+[09:18:40 UTC] [INFO] Starting parse_spectra_container
+[09:18:40 UTC] [INFO] No background image or skipable image, returning block unchanged
+[09:18:40 UTC] [INFO] Processing 2 inner blocks for block #2
+[09:18:40 UTC] [INFO] Processing 2 blocks for updates
+[09:18:40 UTC] [INFO] Processing block #0 - Block type: uagb/container
+[09:18:40 UTC] [INFO] Checking block for image replacement: uagb/container
+[09:18:40 UTC] [INFO] Starting parse_spectra_container
+[09:18:40 UTC] [INFO] No background image or skipable image, returning block unchanged
+[09:18:40 UTC] [INFO] Processing 3 inner blocks for block #0
+[09:18:40 UTC] [INFO] Processing 3 blocks for updates
+[09:18:40 UTC] [INFO] Processing block #0 - Block type: uagb/advanced-heading
+[09:18:40 UTC] [INFO] Checking block for image replacement: uagb/advanced-heading
+[09:18:40 UTC] [INFO] Processing block #1 - Block type: uagb/advanced-heading
+[09:18:40 UTC] [INFO] Checking block for image replacement: uagb/advanced-heading
+[09:18:40 UTC] [INFO] Processing block #2 - Block type: uagb/advanced-heading
+[09:18:40 UTC] [INFO] Checking block for image replacement: uagb/advanced-heading
+[09:18:40 UTC] [INFO] Completed get_updated_blocks - Processed: 3, Skipped: 0
+[09:18:40 UTC] [INFO] Processing block #1 - Block type: uagb/container
+[09:18:40 UTC] [INFO] Checking block for image replacement: uagb/container
+[09:18:40 UTC] [INFO] Starting parse_spectra_container
+[09:18:40 UTC] [INFO] Found background image to replace: http://zeit-services.test/wp-content/uploads/2023/08/about-hero.jpg
+[09:18:40 UTC] [INFO] Retrieved replacement image from index: 5
+[09:18:40 UTC] [INFO] Successfully downloaded image with ID: 15
+[09:18:40 UTC] [INFO] Successfully replaced container background image - Old: http://zeit-services.test/wp-content/uploads/2023/08/about-hero.jpg, New: http://zeit-services.test/wp-content/uploads/2026/07/pexels-photo-6197108.jpeg
+[09:18:40 UTC] [INFO] Processing 1 inner blocks for block #1
+[09:18:40 UTC] [INFO] Processing 1 blocks for updates
+[09:18:40 UTC] [INFO] Processing block #0 - Block type: uagb/image
+[09:18:40 UTC] [INFO] Checking block for image replacement: uagb/image
+[09:18:40 UTC] [INFO] Starting parse_spectra_image
+[09:18:40 UTC] [INFO] Found image to replace: http://zeit-services.test/wp-content/uploads/2023/08/about-hero.jpg
+[09:18:40 UTC] [INFO] Retrieved replacement image from index: 6
+[09:18:40 UTC] [INFO] Successfully downloaded image with ID: 16
+[09:18:40 UTC] [INFO] Replaced image URL in innerHTML
+[09:18:40 UTC] [INFO] Updated alt text to: Adult woman wiping indoor window using a blue cloth, back view, emphasizing cleanliness.
+[09:18:40 UTC] [INFO] Updated tablet image URL: http://zeit-services.test/wp-content/uploads/2026/07/pexels-photo-9462096.jpeg
+[09:18:40 UTC] [INFO] Updated mobile image URL: http://zeit-services.test/wp-content/uploads/2026/07/pexels-photo-9462096.jpeg
+[09:18:40 UTC] [INFO] Updated image ID from 42 to 16
+[09:18:40 UTC] [INFO] Replaced image URL in 1 inner content items
+[09:18:40 UTC] [INFO] Successfully replaced Spectra image - Old: http://zeit-services.test/wp-content/uploads/2023/08/about-hero.jpg, New: http://zeit-services.test/wp-content/uploads/2026/07/pexels-photo-9462096.jpeg
+[09:18:40 UTC] [INFO] Completed get_updated_blocks - Processed: 1, Skipped: 0
+[09:18:40 UTC] [INFO] Completed get_updated_blocks - Processed: 2, Skipped: 0
+[09:18:40 UTC] [INFO] Processing block #3 - Block type: 
+[09:18:40 UTC] [INFO] Checking block for image replacement: 
+[09:18:40 UTC] [INFO] Processing block #4 - Block type: uagb/container
+[09:18:40 UTC] [INFO] Checking block for image replacement: uagb/container
+[09:18:40 UTC] [INFO] Starting parse_spectra_container
+[09:18:40 UTC] [INFO] No background image or skipable image, returning block unchanged
+[09:18:40 UTC] [INFO] Processing 3 inner blocks for block #4
+[09:18:40 UTC] [INFO] Processing 3 blocks for updates
+[09:18:40 UTC] [INFO] Processing block #0 - Block type: uagb/advanced-heading
+[09:18:40 UTC] [INFO] Checking block for image replacement: uagb/advanced-heading
+[09:18:40 UTC] [INFO] Processing block #1 - Block type: uagb/advanced-heading
+[09:18:40 UTC] [INFO] Checking block for image replacement: uagb/advanced-heading
+[09:18:40 UTC] [INFO] Processing block #2 - Block type: uagb/container
+[09:18:40 UTC] [INFO] Checking block for image replacement: uagb/container
+[09:18:40 UTC] [INFO] Starting parse_spectra_container
+[09:18:40 UTC] [INFO] No background image or skipable image, returning block unchanged
+[09:18:40 UTC] [INFO] Processing 3 inner blocks for block #2
+[09:18:40 UTC] [INFO] Processing 3 blocks for updates
+[09:18:40 UTC] [INFO] Processing block #0 - Block type: uagb/info-box
+[09:18:40 UTC] [INFO] Checking block for image replacement: uagb/info-box
+[09:18:40 UTC] [INFO] Starting parse_spectra_infobox
+[09:18:40 UTC] [INFO] No icon image or skipable image, returning block unchanged
+[09:18:40 UTC] [INFO] Processing block #1 - Block type: uagb/info-box
+[09:18:40 UTC] [INFO] Checking block for image replacement: uagb/info-box
+[09:18:40 UTC] [INFO] Starting parse_spectra_infobox
+[09:18:40 UTC] [INFO] No icon image or skipable image, returning block unchanged
+[09:18:40 UTC] [INFO] Processing block #2 - Block type: uagb/info-box
+[09:18:40 UTC] [INFO] Checking block for image replacement: uagb/info-box
+[09:18:40 UTC] [INFO] Starting parse_spectra_infobox
+[09:18:40 UTC] [INFO] No icon image or skipable image, returning block unchanged
+[09:18:40 UTC] [INFO] Completed get_updated_blocks - Processed: 3, Skipped: 0
+[09:18:40 UTC] [INFO] Completed get_updated_blocks - Processed: 3, Skipped: 0
+[09:18:40 UTC] [INFO] Processing block #5 - Block type: 
+[09:18:40 UTC] [INFO] Checking block for image replacement: 
+[09:18:40 UTC] [INFO] Processing block #6 - Block type: uagb/container
+[09:18:40 UTC] [INFO] Checking block for image replacement: uagb/container
+[09:18:40 UTC] [INFO] Starting parse_spectra_container
+[09:18:40 UTC] [INFO] No background image or skipable image, returning block unchanged
+[09:18:40 UTC] [INFO] Processing 3 inner blocks for block #6
+[09:18:40 UTC] [INFO] Processing 3 blocks for updates
+[09:18:40 UTC] [INFO] Processing block #0 - Block type: uagb/advanced-heading
+[09:18:40 UTC] [INFO] Checking block for image replacement: uagb/advanced-heading
+[09:18:40 UTC] [INFO] Processing block #1 - Block type: uagb/advanced-heading
+[09:18:40 UTC] [INFO] Checking block for image replacement: uagb/advanced-heading
+[09:18:40 UTC] [INFO] Processing block #2 - Block type: uagb/container
+[09:18:40 UTC] [INFO] Checking block for image replacement: uagb/container
+[09:18:40 UTC] [INFO] Starting parse_spectra_container
+[09:18:40 UTC] [INFO] No background image or skipable image, returning block unchanged
+[09:18:40 UTC] [INFO] Processing 4 inner blocks for block #2
+[09:18:40 UTC] [INFO] Processing 4 blocks for updates
+[09:18:40 UTC] [INFO] Processing block #0 - Block type: uagb/container
+[09:18:40 UTC] [INFO] Checking block for image replacement: uagb/container
+[09:18:40 UTC] [INFO] Starting parse_spectra_container
+[09:18:40 UTC] [INFO] No background image or skipable image, returning block unchanged
+[09:18:40 UTC] [INFO] Processing 3 inner blocks for block #0
+[09:18:40 UTC] [INFO] Processing 3 blocks for updates
+[09:18:40 UTC] [INFO] Processing block #0 - Block type: uagb/image
+[09:18:40 UTC] [INFO] Checking block for image replacement: uagb/image
+[09:18:40 UTC] [INFO] Starting parse_spectra_image
+[09:18:40 UTC] [INFO] No image URL or skipable image, returning block unchanged
+[09:18:40 UTC] [INFO] Processing block #1 - Block type: uagb/advanced-heading
+[09:18:40 UTC] [INFO] Checking block for image replacement: uagb/advanced-heading
+[09:18:40 UTC] [INFO] Processing block #2 - Block type: uagb/icon-list
+[09:18:40 UTC] [INFO] Checking block for image replacement: uagb/icon-list
+[09:18:40 UTC] [INFO] Starting parse_social_icons
+[09:18:40 UTC] [INFO] Retrieved 1 social profiles
+[09:18:40 UTC] [INFO] Social icons to process: instagram, phone
+[09:18:40 UTC] [INFO] Found facebook icon, processing inner blocks
+[09:18:40 UTC] [INFO] Removed social icon not in profile: facebook
+[09:18:40 UTC] [INFO] Removed social icon not in profile: twitter
+[09:18:40 UTC] [INFO] Removed social icon not in profile: youtube
+[09:18:40 UTC] [INFO] Removed social icon not in profile: linkedin-in
+[09:18:40 UTC] [INFO] Removed 4 social icons not in profile
+[09:18:40 UTC] [INFO] Added 0 Yelp/Google icons
+[09:18:40 UTC] [INFO] Completed parse_social_icons
+[09:18:40 UTC] [INFO] Processing 1 inner blocks for block #2
+[09:18:40 UTC] [INFO] Processing 1 blocks for updates
+[09:18:40 UTC] [INFO] Processing block #0 - Block type: uagb/icon-list-child
+[09:18:40 UTC] [INFO] Checking block for image replacement: uagb/icon-list-child
+[09:18:40 UTC] [INFO] Completed get_updated_blocks - Processed: 1, Skipped: 0
+[09:18:40 UTC] [INFO] Completed get_updated_blocks - Processed: 3, Skipped: 0
+[09:18:40 UTC] [INFO] Processing block #1 - Block type: uagb/container
+[09:18:40 UTC] [INFO] Checking block for image replacement: uagb/container
+[09:18:40 UTC] [INFO] Starting parse_spectra_container
+[09:18:40 UTC] [INFO] No background image or skipable image, returning block unchanged
+[09:18:40 UTC] [INFO] Processing 3 inner blocks for block #1
+[09:18:40 UTC] [INFO] Processing 3 blocks for updates
+[09:18:40 UTC] [INFO] Processing block #0 - Block type: uagb/image
+[09:18:40 UTC] [INFO] Checking block for image replacement: uagb/image
+[09:18:40 UTC] [INFO] Starting parse_spectra_image
+[09:18:40 UTC] [INFO] No image URL or skipable image, returning block unchanged
+[09:18:40 UTC] [INFO] Processing block #1 - Block type: uagb/advanced-heading
+[09:18:40 UTC] [INFO] Checking block for image replacement: uagb/advanced-heading
+[09:18:40 UTC] [INFO] Processing block #2 - Block type: uagb/icon-list
+[09:18:40 UTC] [INFO] Checking block for image replacement: uagb/icon-list
+[09:18:40 UTC] [INFO] Starting parse_social_icons
+[09:18:40 UTC] [INFO] Retrieved 1 social profiles
+[09:18:40 UTC] [INFO] Social icons to process: instagram, phone
+[09:18:40 UTC] [INFO] Found facebook icon, processing inner blocks
+[09:18:40 UTC] [INFO] Removed social icon not in profile: facebook
+[09:18:40 UTC] [INFO] Removed social icon not in profile: twitter
+[09:18:40 UTC] [INFO] Removed social icon not in profile: youtube
+[09:18:40 UTC] [INFO] Removed social icon not in profile: linkedin-in
+[09:18:40 UTC] [INFO] Removed 4 social icons not in profile
+[09:18:40 UTC] [INFO] Added 0 Yelp/Google icons
+[09:18:40 UTC] [INFO] Completed parse_social_icons
+[09:18:40 UTC] [INFO] Processing 1 inner blocks for block #2
+[09:18:40 UTC] [INFO] Processing 1 blocks for updates
+[09:18:40 UTC] [INFO] Processing block #0 - Block type: uagb/icon-list-child
+[09:18:40 UTC] [INFO] Checking block for image replacement: uagb/icon-list-child
+[09:18:40 UTC] [INFO] Completed get_updated_blocks - Processed: 1, Skipped: 0
+[09:18:40 UTC] [INFO] Completed get_updated_blocks - Processed: 3, Skipped: 0
+[09:18:40 UTC] [INFO] Processing block #2 - Block type: uagb/container
+[09:18:40 UTC] [INFO] Checking block for image replacement: uagb/container
+[09:18:40 UTC] [INFO] Starting parse_spectra_container
+[09:18:40 UTC] [INFO] No background image or skipable image, returning block unchanged
+[09:18:40 UTC] [INFO] Processing 3 inner blocks for block #2
+[09:18:40 UTC] [INFO] Processing 3 blocks for updates
+[09:18:40 UTC] [INFO] Processing block #0 - Block type: uagb/image
+[09:18:40 UTC] [INFO] Checking block for image replacement: uagb/image
+[09:18:40 UTC] [INFO] Starting parse_spectra_image
+[09:18:40 UTC] [INFO] No image URL or skipable image, returning block unchanged
+[09:18:40 UTC] [INFO] Processing block #1 - Block type: uagb/advanced-heading
+[09:18:40 UTC] [INFO] Checking block for image replacement: uagb/advanced-heading
+[09:18:40 UTC] [INFO] Processing block #2 - Block type: uagb/icon-list
+[09:18:40 UTC] [INFO] Checking block for image replacement: uagb/icon-list
+[09:18:40 UTC] [INFO] Starting parse_social_icons
+[09:18:40 UTC] [INFO] Retrieved 1 social profiles
+[09:18:40 UTC] [INFO] Social icons to process: instagram, phone
+[09:18:40 UTC] [INFO] Found facebook icon, processing inner blocks
+[09:18:40 UTC] [INFO] Removed social icon not in profile: facebook
+[09:18:40 UTC] [INFO] Removed social icon not in profile: twitter
+[09:18:40 UTC] [INFO] Removed social icon not in profile: youtube
+[09:18:40 UTC] [INFO] Removed social icon not in profile: linkedin-in
+[09:18:40 UTC] [INFO] Removed 4 social icons not in profile
+[09:18:40 UTC] [INFO] Added 0 Yelp/Google icons
+[09:18:40 UTC] [INFO] Completed parse_social_icons
+[09:18:40 UTC] [INFO] Processing 1 inner blocks for block #2
+[09:18:40 UTC] [INFO] Processing 1 blocks for updates
+[09:18:40 UTC] [INFO] Processing block #0 - Block type: uagb/icon-list-child
+[09:18:40 UTC] [INFO] Checking block for image replacement: uagb/icon-list-child
+[09:18:40 UTC] [INFO] Completed get_updated_blocks - Processed: 1, Skipped: 0
+[09:18:40 UTC] [INFO] Completed get_updated_blocks - Processed: 3, Skipped: 0
+[09:18:40 UTC] [INFO] Processing block #3 - Block type: uagb/container
+[09:18:40 UTC] [INFO] Checking block for image replacement: uagb/container
+[09:18:40 UTC] [INFO] Starting parse_spectra_container
+[09:18:40 UTC] [INFO] No background image or skipable image, returning block unchanged
+[09:18:40 UTC] [INFO] Processing 3 inner blocks for block #3
+[09:18:40 UTC] [INFO] Processing 3 blocks for updates
+[09:18:40 UTC] [INFO] Processing block #0 - Block type: uagb/image
+[09:18:40 UTC] [INFO] Checking block for image replacement: uagb/image
+[09:18:40 UTC] [INFO] Starting parse_spectra_image
+[09:18:40 UTC] [INFO] No image URL or skipable image, returning block unchanged
+[09:18:40 UTC] [INFO] Processing block #1 - Block type: uagb/advanced-heading
+[09:18:40 UTC] [INFO] Checking block for image replacement: uagb/advanced-heading
+[09:18:40 UTC] [INFO] Processing block #2 - Block type: uagb/icon-list
+[09:18:40 UTC] [INFO] Checking block for image replacement: uagb/icon-list
+[09:18:40 UTC] [INFO] Starting parse_social_icons
+[09:18:40 UTC] [INFO] Retrieved 1 social profiles
+[09:18:40 UTC] [INFO] Social icons to process: instagram, phone
+[09:18:40 UTC] [INFO] Found facebook icon, processing inner blocks
+[09:18:40 UTC] [INFO] Removed social icon not in profile: facebook
+[09:18:40 UTC] [INFO] Removed social icon not in profile: twitter
+[09:18:40 UTC] [INFO] Removed social icon not in profile: youtube
+[09:18:40 UTC] [INFO] Removed social icon not in profile: linkedin-in
+[09:18:40 UTC] [INFO] Removed 4 social icons not in profile
+[09:18:40 UTC] [INFO] Added 0 Yelp/Google icons
+[09:18:40 UTC] [INFO] Completed parse_social_icons
+[09:18:41 UTC] [INFO] Processing 1 inner blocks for block #2
+[09:18:41 UTC] [INFO] Processing 1 blocks for updates
+[09:18:41 UTC] [INFO] Processing block #0 - Block type: uagb/icon-list-child
+[09:18:41 UTC] [INFO] Checking block for image replacement: uagb/icon-list-child
+[09:18:41 UTC] [INFO] Completed get_updated_blocks - Processed: 1, Skipped: 0
+[09:18:41 UTC] [INFO] Completed get_updated_blocks - Processed: 3, Skipped: 0
+[09:18:41 UTC] [INFO] Completed get_updated_blocks - Processed: 4, Skipped: 0
+[09:18:41 UTC] [INFO] Completed get_updated_blocks - Processed: 3, Skipped: 0
+[09:18:41 UTC] [INFO] Processing block #7 - Block type: 
+[09:18:41 UTC] [INFO] Checking block for image replacement: 
+[09:18:41 UTC] [INFO] Processing block #8 - Block type: core/block
+[09:18:41 UTC] [INFO] Found reusable block with ID: 514
+[09:18:41 UTC] [INFO] Reusable block already processed, skipping ID: 514
+[09:18:41 UTC] [INFO] Completed get_updated_blocks - Processed: 8, Skipped: 0
+[09:18:41 UTC] [INFO] Serialized updated blocks into content
+[09:18:41 UTC] [INFO] Starting replace_content_glitch
+[09:18:41 UTC] [INFO] Completed replace_content_glitch
+[09:18:41 UTC] [INFO] Completed parse_replace_images for post ID: 30
+[09:18:41 UTC] [INFO] Updated page content | Context: {"post_id":30}
+[09:18:41 UTC] [SUCCESS] Page image replacement completed | Context: {"success_count":5}
+[09:18:41 UTC] [INFO] Image replacement step complete: pages
+[09:18:41 UTC] [SUCCESS] Pages are replaced
+[09:18:43 UTC] [INFO] ---
+
+[09:18:43 UTC] [INFO] Starting image replacement batch processing - step: posts
+[09:18:43 UTC] [INFO] Starting post image replacement | Context: {"post_count":3}
+[09:18:43 UTC] [SUCCESS] Successfully set featured image | Context: {"post_id":247,"attachment_id":17}
+[09:18:43 UTC] [SUCCESS] Successfully set featured image | Context: {"post_id":246,"attachment_id":18}
+[09:18:43 UTC] [SUCCESS] Successfully set featured image | Context: {"post_id":244,"attachment_id":19}
+[09:18:43 UTC] [SUCCESS] Post image replacement completed | Context: {"processed_count":3}
+[09:18:43 UTC] [INFO] Image replacement step complete: posts
+[09:18:43 UTC] [SUCCESS] Posts are replaced
+[09:18:44 UTC] [INFO] ---
+
+[09:18:44 UTC] [INFO] Starting image replacement batch processing - step: customizer
+[09:18:44 UTC] [INFO] Starting customizer image replacement
+[09:18:44 UTC] [INFO] Skipping astra option update - image ID is 0
+[09:18:44 UTC] [INFO] Updated customizer option | Context: {"option_name":"footer-bg-obj-responsive"}
+[09:18:44 UTC] [SUCCESS] Successfully updated astra option | Context: {"attachment_id":20}
+[09:18:44 UTC] [INFO] Updated customizer option | Context: {"option_name":"ast-dynamic-archive-post-banner-custom-bg"}
+[09:18:44 UTC] [INFO] Starting social options update | Context: {"options_count":0}
+[09:18:44 UTC] [INFO] No social options to update
+[09:18:44 UTC] [SUCCESS] Customizer image replacement completed
+[09:18:44 UTC] [INFO] Image replacement step complete: customizer
+[09:18:44 UTC] [SUCCESS] Customizer images replaced.
+[09:18:46 UTC] [INFO] ---
+
+[09:18:46 UTC] [INFO] Starting image replacement batch processing - step: cleanup
+[09:18:46 UTC] [INFO] Starting cleanup of old images
+[09:18:46 UTC] [INFO] Processing old image URLs | Context: {"old_image_count":0}
+[09:18:46 UTC] [INFO] Old images deleted | Context: {"deleted_count":0}
+[09:18:46 UTC] [INFO] Cleanup options removed
+[09:18:46 UTC] [INFO] Image replacement step complete: cleanup
+[09:18:46 UTC] [SUCCESS] Image replacement cleanup complete.
+[09:18:48 UTC] [INFO] ---
+
+[09:18:48 UTC] [INFO] Starting import end process
+[09:18:48 UTC] [INFO] Finalizing import process
+[09:18:48 UTC] [INFO] Setting permalink structure to post name
+[09:18:48 UTC] [INFO] Executing import complete actions
+[09:18:48 UTC] [SUCCESS] Import completed successfully!
+[09:18:51 UTC] [INFO] ---
+
+[09:18:51 UTC] [INFO] Setting site data: site-logo
+[09:18:52 UTC] [INFO] ---
+
+[09:18:52 UTC] [INFO] Setting site data: site-colors
+[09:18:53 UTC] [INFO] ---
+
+[09:18:53 UTC] [INFO] Setting site data: site-title
+[09:18:55 UTC] [INFO] ---
+
+[09:18:55 UTC] [INFO] Setting site data: site-typography
+[09:18:57 UTC] [INFO] ---
+
+[09:18:57 UTC] [SUCCESS] Import completed successfully!
+[09:18:59 UTC] [INFO] Import process completed. Cleaning up log file option.

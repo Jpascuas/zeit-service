@@ -1,0 +1,22 @@
+[
+    {
+        "link": "http:\/\/zeit-services.test\/archives-sitemap-1.xml",
+        "updated": "2026-08-22T22:18:01-05:00"
+    },
+    {
+        "link": "http:\/\/zeit-services.test\/post-type-page-sitemap-1.xml",
+        "updated": "2026-08-22T22:18:01-05:00"
+    },
+    {
+        "link": "http:\/\/zeit-services.test\/post-type-post-sitemap-1.xml",
+        "updated": "2026-08-22T22:18:01-05:00"
+    },
+    {
+        "link": "http:\/\/zeit-services.test\/post-type-sureforms_form-sitemap-1.xml",
+        "updated": "2026-08-22T22:18:01-05:00"
+    },
+    {
+        "link": "http:\/\/zeit-services.test\/taxonomy-type-category-sitemap-1.xml",
+        "updated": "2026-08-22T22:18:01-05:00"
+    }
+]
